@@ -1,0 +1,138 @@
+@mixin register-content{
+  width: 980px;
+  margin: 0 auto;
+}
+
+.register-form{
+  @include register-content;
+  .reg-head{
+    width: 100%;
+    height: 35px;
+    background: url(../images/graytabbtline.gif) repeat-x 0 bottom;
+    h3{
+      float: left;
+      height: 33px;
+      padding: 0 40px;
+      line-height: 33px;
+      font-size: 16px;
+      background: #fff;
+      border: 1px solid #d0d0d0;
+      border-bottom-color: #fff;
+      color: #D82F2A;
+    }
+  }
+  .reg-content{
+    width: 978px;
+    border: 1px solid #d0d0d0;
+    border-top: none;
+
+    .reg-l{
+      float: left;
+      width: 640px;
+      padding-right: 10px;
+      margin: 25px 0 30px 30px;
+      border-right: 1px #E5E5E5 solid;
+
+      div{
+        clear: both;
+        width: 640px;
+        line-height: 24px;
+        margin-bottom: 26px;
+        font-family: arial, 宋体;
+        font-size: 14px;
+        position: relative;
+        label{
+          float: left;
+          width: 100px;
+          color: #666;
+          font-size: 14px;
+          padding-top: 5px;
+          text-align: right;
+        }
+        input{
+          border: 1px solid #ccc;
+          width: 250px;
+          height: 32px;
+          padding: 0 20px 0 5px;
+          font: 14px arial, "宋体";
+          color: #ab9d9d;
+        }
+        span{
+          display: inline-block;
+          width: 17px;
+          height: 18px;
+          position: absolute;
+          top: 6px;
+          right: 273px;
+        }
+        .name-icon{
+          background-position: -114px -25px;
+        }
+        .pass-icon{
+          background-position: -145px -25px;
+        }
+        .phone-icon{
+          width: 15px;
+          height: 22px;
+          background-position: -55px -26px;
+        }
+      }
+      #yzm,#mobileYzm,#adr{
+        input{
+          width: 100px;
+        }
+      }
+      .already-read{
+        width: 540px;
+        padding-left: 100px;
+        input{
+          width: 13px;
+          height: 13px;
+          vertical-align: middle;
+        }
+      }
+      .submitBtn-wrap{
+        width: 540px;
+        padding-left: 100px;
+        #submitBtn{
+          display: block;
+          width: 232px;
+          height: 35px;
+          border: 0;
+          background-position: 0 -125px;
+          cursor: pointer;
+        }
+
+      }
+    }
+    .reg-r{
+      float: right;
+      width: 246px;
+      margin: 24px;
+      &>div:nth-child(1){
+        padding: 20px 0;
+        text-align: center;
+        border-bottom: 1px solid #e9e9e9;
+        p{
+          color: #888;
+          margin-bottom: 12px;
+        }
+        a{
+          display: block;
+          width: 134px;
+          height: 33px;
+          line-height: 33px;
+          margin: 0 auto;
+          color: #E33A3D;
+          font-size: 16px;
+          background-position: 0 -238px;
+        }
+      }
+      img{
+        width: 246px;
+        height: 325px;
+      }
+    }
+
+  }
+}

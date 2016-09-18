@@ -1,0 +1,563 @@
+<div class="headNav clear">
+    <div class="headNav-top-wrap">
+        <div class="headNav-top">
+            <div class="all-product">
+                <a class="all" href="#">全部商品分类</a>
+            </div>
+            <ul class="menu">
+                <li><a href="#">首页</a></li>
+                <li><a href="#">天虹官方APP</a><span class="new"></span></li>
+                <li><a href="#">品牌</a></li>
+                <li><a href="#">海外购</a><span class="new"></span></li>
+                <li><a href="#">专柜新款</a><span class="new"></span></li>
+                <li><a href="#">天虹团</a></li>
+                <li><a href="#">积分商城</a><span class="new"></span></li>
+            </ul>
+        </div>
+    </div>
+    <div class="headNav-content">
+        <ul class="headNav-contentNav">
+            <li class="pro-hasArea">
+                <s class="minorIcon2"></s><span class="minorIcon2 headNav-icon headNav-icon1"></span><a href="#">食品饮料</a>、<a href="#">生鲜熟食</a></li>
+            <li class="pro-hasArea">
+                <s class="minorIcon2"></s><span class="minorIcon2 headNav-icon headNav-icon2"></span><a href="#">厨卫清洁</a>、<a href="#">纸品家纺</a></li>
+            <li class="pro-hasArea">
+                <s class="minorIcon2"></s><span class="minorIcon2 headNav-icon headNav-icon3"></span><a href="#">母婴用品</a>、<a href="#">儿童玩具</a></li>
+            <li class="pro-hasArea">
+                <s class="minorIcon2"></s><span class="minorIcon2 headNav-icon headNav-icon4"></span><a href="#">美容护理</a>、<a href="#">洗护沐浴</a></li>
+            <li class="pro-hasArea">
+                <s class="minorIcon2"></s><span class="minorIcon2 headNav-icon headNav-icon5"></span><a href="#">婴童服装</a>、<a href="#">孕妇护理</a></li>
+            <li class="pro-hasArea">
+                <s class="minorIcon2"></s><span class="minorIcon2 headNav-icon headNav-icon6"></span><a href="#">男装女装</a>、<a href="#">运动户外</a></li>
+            <li class="pro-hasArea">
+                <s class="minorIcon2"></s><span class="minorIcon2 headNav-icon headNav-icon7"></span><a href="#">鞋靴箱包</a>、<a href="#">钟表配饰</a></li>
+            <li class="pro-hasArea">
+                <s class="minorIcon2"></s><span class="minorIcon2 headNav-icon headNav-icon8"></span><a href="#">生活家电</a>、<a href="#">办公设备</a></li>
+            <li class="pro-hasArea">
+                <s class="minorIcon2"></s><span class="minorIcon2 headNav-icon headNav-icon9"></span><a href="#">家居家纺</a>、<a href="#">床上用品</a></li>
+            <li><span class="minorIcon2 headNav-icon headNav-icon10"></span><a href="#">大牌齐聚、专柜同款</a></li>
+            <li><span class="minorIcon2 headNav-icon headNav-icon11"></span><a href="#">全球好货、品质保证</a></li>
+        </ul>
+        <div id="content_div">
+            <div class="product-type">
+                <dl>
+                    <dt><a class="hot-product" href="#">应节食品</a></dt>
+                    <dd><a href="#">国产月饼</a><a href="#">冰皮月饼</a><a href="#">进口月饼</a><a href="#">中秋送好礼</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">进口食品</a></dt>
+                    <dd><a href="#">进口调料</a><a href="#">进口奶</a><a href="#">进口饼干糕点</a>
+                        <a href="#">进口糖果巧克力</a><a href="#">进口即食</a><a href="#">进口零食</a><a href="#">进口冲饮</a>
+                        <a href="#">进口葡萄酒</a><a href="#">进口啤酒</a><a href="#">进口粮油副食</a><a href="#">进口饮料</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">生鲜食品</a></dt>
+                    <dd><a href="#">干果干货</a><a href="#">优质鲜果</a><a href="#">禽蛋鲜蔬</a>
+                        <a href="#">畜肉禽肉</a><a href="#">全球海鲜</a><a href="#">蛋糕沙拉</a>
+                        <a href="#">鲜花礼品</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">奶制品</a></dt>
+                    <dd><a href="#">奶饮品</a><a class="hot-product" href="#">纯牛奶</a><a href="#">进口奶</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">粮油</a></dt>
+                    <dd><a class="hot-product" href="#">食用油</a><a href="#">米面制品</a><a href="#">有机食品</a>
+                        <a href="#">有机食品</a><a class="hot-product" href="#">大米</a><a href="#">面粉</a>
+                        <a href="#">杂粮</a><a href="#">进口粮油副食</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">副食品</a></dt>
+                    <dd><a href="#">菌菇类</a><a href="#">滋补类</a><a href="#">特产干货</a>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">调味料</a></dt>
+                    <dd><a href="#">糖/食盐</a><a href="#">调味酱</a><a href="#">调味粉/调味汁</a>
+                        <a href="#">醋</a><a href="#">酱油</a><a href="#">进口调料</a>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">即食食品</a></dt>
+                    <dd><a href="#">方便食品</a><a href="#">方便粉/面</a><a href="#">熟食蛋/肉制品</a>
+                        <a href="#">佐餐酱菜</a><a href="#">进口即食</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">饮料</a></dt>
+                    <dd><a href="#">饮用水</a><a href="#">果汁</a><a href="#">功能饮料/咖啡奶茶</a>
+                        <a href="#">茶饮料</a><a href="#">碳酸饮料</a><a href="#">进口饮料</a>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">饼干糕点</a></dt>
+                    <dd><a href="#">饼干</a><a href="#">糕点</a><a href="#">糖醇类糕点</a>
+                        <a href="#">进口饼干糕点</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">休闲食品</a></dt>
+                    <dd><a href="#">干果炒货</a><a href="#">豆干肉类</a><a href="#">凉果蜜饯</a>
+                        <a href="#">香脆小吃</a><a href="#">进口零食</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">糖果巧克力</a></dt>
+                    <dd><a class="hot-product" href="#">巧克力</a><a href="#">糖果</a><a href="#">进口糖巧克力</a>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">冲饮品</a></dt>
+                    <dd><a href="#">蜂蜜/柚子茶</a><a href="#">冲饮谷物</a><a href="#">咖啡/奶茶</a>
+                        <a href="#">成人奶粉</a><a href="#">袋泡茶</a><a href="#">草本花果茶</a>
+                        <a href="#">进口冲饮</a><a class="hot-product" href="#">传统茶叶</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">酒</a></dt>
+                    <dd><a href="#">啤酒</a><a class="hot-product" href="#">葡萄酒</a><a href="#">保健酒及其他</a>
+                        <a href="#">白酒</a><a href="#">进口葡萄酒</a><a href="#">进口啤酒</a>
+                        <a href="#">洋酒</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">保健滋补品</a></dt>
+                    <dd><a href="#">国外胶囊保健品</a><a href="#">国内传统保健品</a></dd>
+                </dl>
+            </div>
+            <div class="product-type">
+                <dl>
+                    <dt><a class="hot-product" href="#">衣物清洁用品</a></dt>
+                    <dd><a href="#">衣物漂洗剂/彩漂</a><a href="#">洗衣液</a><a href="#">洗衣皂</a><a href="#">衣物柔顺剂/护理剂</a>
+                        <a href="#">衣领净</a><a href="#">洗衣粉</a><a href="#">衣物除菌/消毒液</a><a href="#">香水纸</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">家居清洁护理</a></dt>
+                    <dd><a href="#">洗洁精/油污净</a><a href="#">洁厕剂/消毒液</a><a href="#">地板/玻璃/管道清洁护理用品</a>
+                        <a href="#">电器清洁用品</a><a href="#">除湿用品</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">清洁工具</a></dt>
+                    <dd><a href="#">洁厕刷/垃圾桶/垃圾铲/卫浴清洁刷</a><a href="#">拖把/扫把/窗擦/其他除尘工具</a><a href="#">家用手套/围裙/套袖/头巾</a>
+                        <a href="#">脸盆/水桶/筛子/菜盆</a><a href="#">厨用清洁</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">收纳洗晒</a></dt>
+                    <dd><a href="#">整理收纳</a><a class="hot-product" href="#">洗衣/晒衣用品</a><a href="#">粘钩/纸筒/米桶/层架/药箱</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">纸制品</a></dt>
+                    <dd><a class="hot-product" href="#">湿纸巾</a><a href="#">手帕纸</a><a href="#">卷纸</a>
+                        <a href="#">抽纸</a><a class="hot-product" href="#">厨房用纸</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">厨具锅具</a></dt>
+                    <dd><a href="#">锅具/汤煲/烧水壶</a><a href="#">厨用小件</a><a href="#">锅铲/勺/厨具套装</a>
+                        <a href="#">刀剪/砧板/磨刀器</a>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">餐具水具</a></dt>
+                    <dd><a href="#">水具水壶</a><a href="#">餐具</a><a href="#">保鲜盒/碗/保温提锅</a>
+                        <a href="#">玻璃杯</a><a href="#">酒杯</a><a href="#">抽水器</a>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">家居日杂</a></dt>
+                    <dd><a href="#">卫浴用品</a><a href="#">应季商品</a><a href="#">日用小件</a>
+                        <a href="#">雨具</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">消杀用品</a></dt>
+                    <dd><a href="#">除虫类</a><a href="#">除蚊类</a>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">一次性用品</a></dt>
+                    <dd><a href="#">垃圾袋</a><a href="#">保鲜膜/袋</a><a href="#">牙签/吸管/竹签</a>
+                        <a href="#">餐具/水杯</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">家居家纺</a></dt>
+                    <dd><a href="#">抱枕</a><a href="#">创意手提袋</a><a href="#">创意音响</a>
+                        <a href="#">电暖袋</a><a href="#">公仔</a>
+                        <a href="#">挂饰</a><a href="#">家居内裤</a>
+                        <a href="#">家居内衣</a><a href="#">家居鞋品</a></dd>
+                    <a href="#">家居服</a><a href="#">毛巾</a>
+                    <a href="#">袜类</a><a href="#">浴巾</a>
+                </dl>
+                <dl>
+                    <dt><a href="#">家具家装</a></dt>
+                    <dd><a class="hot-product" href="#">办公家具</a><a href="#">茶几</a><a href="#">成套家具</a>
+                        <a href="#">床垫</a><a href="#">床类</a>
+                        <a href="#">灯具</a><a href="#">儿童家具</a>
+                        <a href="#">糖果</a><a href="#">柜类</a>
+                        <a href="#">户外家具</a><a href="#">沙发类</a>
+                        <a href="#">椅</a><a href="#">桌类</a>
+                        <a href="#">架类</a>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">室内装饰品</a></dt>
+                    <dd><a href="#">餐桌布艺</a><a href="#">地毯</a><a href="#">靠垫</a>
+                        <a href="#">沙发垫</a><a href="#">香薰</a><a href="#">装饰画</a>
+                        <a href="#">摆饰</a><a class="hot-product" href="#">礼品</a>
+                        <a href="#">花瓶</a><a class="hot-product" href="#">仿真花</a>
+                        <a href="#">创意家居</a><a class="hot-product" href="#">烛台</a>
+                        <a href="#">酒架</a><a class="hot-product" href="#">纸巾盒</a>
+                    </dd>
+                </dl>
+            </div>
+            <div class="product-type">
+                <dl>
+                    <dt><a class="hot-product" href="#">纸尿裤</a></dt>
+                    <dd><a href="#">国产月饼</a><a href="#">冰皮月饼</a><a href="#">进口月饼</a><a href="#">中秋送好礼</a></dd>
+                </dl>
+                <dl>
+                    <dt><a class="hot-product" href="#">奶粉</a></dt>
+                    <dd><a href="#">进口调料</a><a href="#">进口奶</a><a href="#">进口饼干糕点</a>
+                        <a href="#">进口糖果巧克力</a><a href="#">进口即食</a><a href="#">进口零食</a><a href="#">进口冲饮</a>
+                        <a href="#">进口葡萄酒</a><a href="#">进口啤酒</a><a href="#">进口粮油副食</a><a href="#">进口饮料</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">辅食</a></dt>
+                    <dd><a href="#">干果干货</a><a href="#">优质鲜果</a><a href="#">禽蛋鲜蔬</a>
+                        <a href="#">畜肉禽肉</a><a href="#">全球海鲜</a><a href="#">蛋糕沙拉</a>
+                        <a href="#">鲜花礼品</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">洗浴用品</a></dt>
+                    <dd><a href="#">奶饮品</a><a class="hot-product" href="#">纯牛奶</a><a href="#">进口奶</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">喂养用品</a></dt>
+                    <dd><a class="hot-product" href="#">食用油</a><a href="#">米面制品</a><a href="#">有机食品</a>
+                        <a href="#">有机食品</a><a class="hot-product" href="#">大米</a><a href="#">面粉</a>
+                        <a href="#">杂粮</a><a href="#">进口粮油副食</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">妈妈用品</a></dt>
+                    <dd><a href="#">菌菇类</a><a href="#">滋补类</a><a href="#">特产干货</a>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">童车</a></dt>
+                    <dd><a href="#">糖/食盐</a><a href="#">调味酱</a><a href="#">调味粉/调味汁</a>
+                        <a href="#">醋</a><a href="#">酱油</a><a href="#">进口调料</a>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">玩具</a></dt>
+                    <dd><a href="#">方便食品</a><a href="#">方便粉/面</a><a href="#">熟食蛋/肉制品</a>
+                        <a href="#">佐餐酱菜</a><a href="#">进口即食</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">儿童玩具</a></dt>
+                    <dd><a href="#">饮用水</a><a href="#">果汁</a><a href="#">功能饮料/咖啡奶茶</a>
+                        <a href="#">茶饮料</a><a href="#">碳酸饮料</a><a href="#">进口饮料</a>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">图书音像</a></dt>
+                    <dd><a href="#">饼干</a><a href="#">糕点</a><a href="#">糖醇类糕点</a>
+                        <a href="#">进口饼干糕点</a></dd>
+                </dl>
+            </div>
+            <div class="product-type">
+                <dl>
+                    <dt><a class="hot-product" href="#">海外购</a></dt>
+                    <dd><a href="#">国产月饼</a><a href="#">冰皮月饼</a><a href="#">进口月饼</a><a href="#">中秋送好礼</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">面部护理</a></dt>
+                    <dd><a href="#">进口调料</a><a href="#">进口奶</a><a href="#">进口饼干糕点</a>
+                        <a href="#">进口糖果巧克力</a><a href="#">进口即食</a><a href="#">进口零食</a><a href="#">进口冲饮</a>
+                        <a href="#">进口葡萄酒</a><a href="#">进口啤酒</a><a href="#">进口粮油副食</a><a href="#">进口饮料</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">炫丽彩妆</a></dt>
+                    <dd><a href="#">干果干货</a><a href="#">优质鲜果</a><a href="#">禽蛋鲜蔬</a>
+                        <a href="#">畜肉禽肉</a><a href="#">全球海鲜</a><a href="#">蛋糕沙拉</a>
+                        <a href="#">鲜花礼品</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">洗发美发</a></dt>
+                    <dd><a href="#">奶饮品</a><a class="hot-product" href="#">纯牛奶</a><a href="#">进口奶</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">洗浴用品</a></dt>
+                    <dd><a class="hot-product" href="#">食用油</a><a href="#">米面制品</a><a href="#">有机食品</a>
+                        <a href="#">有机食品</a><a class="hot-product" href="#">大米</a><a href="#">面粉</a>
+                        <a href="#">杂粮</a><a href="#">进口粮油副食</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">身体护理</a></dt>
+                    <dd><a href="#">菌菇类</a><a href="#">滋补类</a><a href="#">特产干货</a>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">口腔护理</a></dt>
+                    <dd><a href="#">糖/食盐</a><a href="#">调味酱</a><a href="#">调味粉/调味汁</a>
+                        <a href="#">醋</a><a href="#">酱油</a><a href="#">进口调料</a>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">女性护理</a></dt>
+                    <dd><a href="#">方便食品</a><a href="#">方便粉/面</a><a href="#">熟食蛋/肉制品</a>
+                        <a href="#">佐餐酱菜</a><a href="#">进口即食</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">男士洗护</a></dt>
+                    <dd><a href="#">饮用水</a><a href="#">果汁</a><a href="#">功能饮料/咖啡奶茶</a>
+                        <a href="#">茶饮料</a><a href="#">碳酸饮料</a><a href="#">进口饮料</a>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">成人用品</a></dt>
+                    <dd><a href="#">饼干</a><a href="#">糕点</a><a href="#">糖醇类糕点</a>
+                        <a href="#">进口饼干糕点</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">魅力香氛</a></dt>
+                    <dd><a href="#">干果炒货</a><a href="#">豆干肉类</a><a href="#">凉果蜜饯</a>
+                        <a href="#">香脆小吃</a><a href="#">进口零食</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">美护工具</a></dt>
+                    <dd><a class="hot-product" href="#">巧克力</a><a href="#">糖果</a><a href="#">进口糖巧克力</a>
+                    </dd>
+                </dl>
+            </div>
+            <div class="product-type">
+                <dl>
+                    <dt><a class="hot-product" href="#">童装</a></dt>
+                    <dd><a href="#">国产月饼</a><a href="#">冰皮月饼</a><a href="#">进口月饼</a><a href="#">中秋送好礼</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">婴幼服装</a></dt>
+                    <dd><a href="#">进口调料</a><a href="#">进口奶</a><a href="#">进口饼干糕点</a>
+                        <a href="#">进口糖果巧克力</a><a href="#">进口即食</a><a href="#">进口零食</a><a href="#">进口冲饮</a>
+                        <a href="#">进口葡萄酒</a><a href="#">进口啤酒</a><a href="#">进口粮油副食</a><a href="#">进口饮料</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">婴童寝居</a></dt>
+                    <dd><a href="#">干果干货</a><a href="#">优质鲜果</a><a href="#">禽蛋鲜蔬</a>
+                        <a href="#">畜肉禽肉</a><a href="#">全球海鲜</a><a href="#">蛋糕沙拉</a>
+                        <a href="#">鲜花礼品</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">婴童鞋</a></dt>
+                    <dd><a href="#">奶饮品</a><a class="hot-product" href="#">纯牛奶</a><a href="#">进口奶</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">孕妇服饰</a></dt>
+                    <dd><a class="hot-product" href="#">食用油</a><a href="#">米面制品</a><a href="#">有机食品</a>
+                        <a href="#">有机食品</a><a class="hot-product" href="#">大米</a><a href="#">面粉</a>
+                        <a href="#">杂粮</a><a href="#">进口粮油副食</a></dd>
+                </dl>
+            </div>
+            <div class="product-type">
+                <dl>
+                    <dt><a class="hot-product" href="#">女装</a></dt>
+                    <dd><a href="#">国产月饼</a><a href="#">冰皮月饼</a><a href="#">进口月饼</a><a href="#">中秋送好礼</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">男装</a></dt>
+                    <dd><a href="#">干果干货</a><a href="#">优质鲜果</a><a href="#">禽蛋鲜蔬</a>
+                        <a href="#">畜肉禽肉</a><a href="#">全球海鲜</a><a href="#">蛋糕沙拉</a>
+                        <a href="#">鲜花礼品</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">婴童寝居</a></dt>
+                    <dd><a href="#">进口调料</a><a href="#">进口奶</a><a href="#">进口饼干糕点</a>
+                        <a href="#">进口糖果巧克力</a><a href="#">进口即食</a><a href="#">进口零食</a><a href="#">进口冲饮</a>
+                        <a href="#">进口葡萄酒</a><a href="#">进口啤酒</a><a href="#">进口粮油副食</a><a href="#">进口饮料</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">运动户外</a></dt>
+                    <dd><a href="#">奶饮品</a><a class="hot-product" href="#">纯牛奶</a><a href="#">进口奶</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">童装</a></dt>
+                    <dd><a class="hot-product" href="#">食用油</a><a href="#">米面制品</a><a href="#">有机食品</a>
+                        <a href="#">有机食品</a><a class="hot-product" href="#">大米</a><a href="#">面粉</a>
+                        <a href="#">杂粮</a><a href="#">进口粮油副食</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">婴幼装</a></dt>
+                    <dd><a href="#">菌菇类</a><a href="#">滋补类</a><a href="#">特产干货</a>
+                    </dd>
+                </dl>
+            </div>
+            <div class="product-type">
+                <dl>
+                    <dt><a class="hot-product" href="#">女鞋</a></dt>
+                    <dd><a href="#">国产月饼</a><a href="#">冰皮月饼</a><a href="#">进口月饼</a><a href="#">中秋送好礼</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">男鞋</a></dt>
+                    <dd><a href="#">进口调料</a><a href="#">进口奶</a><a href="#">进口饼干糕点</a>
+                        <a href="#">进口糖果巧克力</a><a href="#">进口即食</a><a href="#">进口零食</a><a href="#">进口冲饮</a>
+                        <a href="#">进口葡萄酒</a><a href="#">进口啤酒</a><a href="#">进口粮油副食</a><a href="#">进口饮料</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">童鞋</a></dt>
+                    <dd><a href="#">干果干货</a><a href="#">优质鲜果</a><a href="#">禽蛋鲜蔬</a>
+                        <a href="#">畜肉禽肉</a><a href="#">全球海鲜</a><a href="#">蛋糕沙拉</a>
+                        <a href="#">鲜花礼品</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">潮流女包</a></dt>
+                    <dd><a href="#">奶饮品</a><a class="hot-product" href="#">纯牛奶</a><a href="#">进口奶</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">时尚男包</a></dt>
+                    <dd><a class="hot-product" href="#">食用油</a><a href="#">米面制品</a><a href="#">有机食品</a>
+                        <a href="#">有机食品</a><a class="hot-product" href="#">大米</a><a href="#">面粉</a>
+                        <a href="#">杂粮</a><a href="#">进口粮油副食</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">功能箱包</a></dt>
+                    <dd><a href="#">菌菇类</a><a href="#">滋补类</a><a href="#">特产干货</a>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">皮带/腰带</a></dt>
+                    <dd><a href="#">糖/食盐</a><a href="#">调味酱</a><a href="#">调味粉/调味汁</a>
+                        <a href="#">醋</a><a href="#">酱油</a><a href="#">进口调料</a>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">珠宝饰品</a></dt>
+                    <dd><a href="#">方便食品</a><a href="#">方便粉/面</a><a href="#">熟食蛋/肉制品</a>
+                        <a href="#">佐餐酱菜</a><a href="#">进口即食</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">钟表</a></dt>
+                    <dd><a href="#">饮用水</a><a href="#">果汁</a><a href="#">功能饮料/咖啡奶茶</a>
+                        <a href="#">茶饮料</a><a href="#">碳酸饮料</a><a href="#">进口饮料</a>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">配饰</a></dt>
+                    <dd><a href="#">饼干</a><a href="#">糕点</a><a href="#">糖醇类糕点</a>
+                        <a href="#">进口饼干糕点</a></dd>
+                </dl>
+            </div>
+            <div class="product-type">
+                <dl>
+                    <dt><a class="hot-product" href="#">电脑办公</a></dt>
+                    <dd><a href="#">国产月饼</a><a href="#">冰皮月饼</a><a href="#">进口月饼</a><a href="#">中秋送好礼</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">大家电</a></dt>
+                    <dd><a href="#">进口调料</a><a href="#">进口奶</a><a href="#">进口饼干糕点</a>
+                        <a href="#">进口糖果巧克力</a><a href="#">进口即食</a><a href="#">进口零食</a><a href="#">进口冲饮</a>
+                        <a href="#">进口葡萄酒</a><a href="#">进口啤酒</a><a href="#">进口粮油副食</a><a href="#">进口饮料</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">手机通讯</a></dt>
+                    <dd><a href="#">干果干货</a><a href="#">优质鲜果</a><a href="#">禽蛋鲜蔬</a>
+                        <a href="#">畜肉禽肉</a><a href="#">全球海鲜</a><a href="#">蛋糕沙拉</a>
+                        <a href="#">鲜花礼品</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">数码影音</a></dt>
+                    <dd><a href="#">奶饮品</a><a class="hot-product" href="#">纯牛奶</a><a href="#">进口奶</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">生活电器</a></dt>
+                    <dd><a class="hot-product" href="#">食用油</a><a href="#">米面制品</a><a href="#">有机食品</a>
+                        <a href="#">有机食品</a><a href="#">大米</a><a href="#">面粉</a>
+                        <a href="#">杂粮</a><a href="#">进口粮油副食</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">厨房电器</a></dt>
+                    <dd><a href="#">菌菇类</a><a href="#">滋补类</a><a href="#">特产干货</a>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">厨卫家电</a></dt>
+                    <dd><a href="#">糖/食盐</a><a href="#">调味酱</a><a href="#">调味粉/调味汁</a>
+                        <a href="#">醋</a><a href="#">酱油</a><a href="#">进口调料</a>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt><a class="hot-product" href="#">办公文仪</a></dt>
+                    <dd><a href="#">方便食品</a><a href="#">方便粉/面</a><a href="#">熟食蛋/肉制品</a>
+                        <a href="#">佐餐酱菜</a><a href="#">进口即食</a></dd>
+                </dl>
+                <dl>
+                    <dt><a class="hot-product" href="#">消耗器材</a></dt>
+                    <dd><a href="#">饮用水</a><a href="#">果汁</a><a href="#">功能饮料/咖啡奶茶</a>
+                        <a href="#">茶饮料</a><a href="#">碳酸饮料</a><a href="#">进口饮料</a>
+                    </dd>
+                </dl>
+            </div>
+            <div class="product-type">
+                <dl>
+                    <dt><a class="hot-product" href="#">床上用品</a></dt>
+                    <dd><a href="#">国产月饼</a><a href="#">冰皮月饼</a><a href="#">进口月饼</a><a href="#">中秋送好礼</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">宠物用品</a></dt>
+                    <dd><a href="#">进口调料</a><a href="#">进口奶</a><a href="#">进口饼干糕点</a>
+                        <a href="#">进口糖果巧克力</a><a href="#">进口即食</a><a href="#">进口零食</a><a href="#">进口冲饮</a>
+                        <a href="#">进口葡萄酒</a><a href="#">进口啤酒</a><a href="#">进口粮油副食</a><a href="#">进口饮料</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">居家健身</a></dt>
+                    <dd><a href="#">干果干货</a><a href="#">优质鲜果</a><a href="#">禽蛋鲜蔬</a>
+                        <a href="#">畜肉禽肉</a><a href="#">全球海鲜</a><a href="#">蛋糕沙拉</a>
+                        <a href="#">鲜花礼品</a></dd>
+                </dl>
+                <dl>
+                    <dt><a href="#">汽车用品</a></dt>
+                    <dd><a href="#">奶饮品</a><a class="hot-product" href="#">纯牛奶</a><a href="#">进口奶</a></dd>
+                </dl>
+            </div>
+        </div>
+        <!-- ---------------轮播图---------------------- -->
+        <div class="weichuangyi">
+            <div class="weichuangyi_main">
+                <ul class="weichuangyi_ul">
+                    <li>
+                        <a href="" class="img"><img src="img/ad_yuetu.jpg" alt="微创意" /></a>
+                    </li>
+                    <li>
+                        <a href="" class="img"><img src="img/ad_nba.jpg" alt="微创意" /></a>
+                    </li>
+                    <li>
+                        <a href="" class="img"><img src="img/ad_stock.jpg" alt="微创意" /></a>
+                    </li>
+                    <li>
+                        <a href="" class="img"><img src="img/ad_auto.jpg" alt="微创意" /></a>
+                    </li>
+                    <li>
+                        <a href="" class="img"><img src="img/ad_auto.jpg" alt="微创意" /></a>
+                    </li>
+                    <li>
+                        <a href="" class="img"><img src="img/ad_auto.jpg" alt="微创意" /></a>
+                    </li>
+                    <li>
+                        <a href="" class="img"><img src="img/ad_auto.jpg" alt="微创意" /></a>
+                    </li>
+                    <li>
+                        <a href="" class="img"><img src="img/ad_auto.jpg" alt="微创意" /></a>
+                    </li>
+                </ul>
+            </div>
+            <p class="weichuangyi_left minorIcon"></p>
+            <p class="weichuangyi_right minorIcon"></p>
+            <div class="weichuangyi_span">
+                <p> <span class="weichuangyi_span_one"></span> <span></span><span></span> <span></span><span></span><span></span> <span></span><span></span></p>
+            </div>
+        </div>
+        <div class="headNav-right">
+            <a class="headNav-ad" href="#"><img src="picture/c13d5452-1e3f-4ba0-a550-82d93e715fdb.jpg" alt=""></a>
+            <h4>公告咨询</h4>
+            <ul class="notice">
+                <li><a href="#"><strong>[特惠]</strong>短信送礼 预约购卡</a></li>
+                <li><a href="#"><strong>[公告]</strong>江浙地区快递运送影响通知</a></li>
+                <li><a href="#"><strong>[特惠]</strong>关于不正当购物行为的规则说明</a></li>
+                <li><a href="#"><strong>[公告]</strong>海淘消费者告知书</a></li>
+                <li><a href="#"><strong>[特惠]</strong>新注册会员专享活动公告</a></li>
+            </ul>
+        </div>
+    </div>
+</div>

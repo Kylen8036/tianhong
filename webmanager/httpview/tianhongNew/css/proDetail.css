@@ -1,0 +1,414 @@
+@charset "UTF-8";
+.proDetail-content {
+  width: 1190px;
+  margin: 0 auto;
+  background-color: #ffffff;
+}
+.proDetail-content a:hover {
+  color: #da2b28;
+}
+.proDetail-content .breadcrumb {
+  height: 22px;
+  line-height: 22px;
+  margin: 10px 0;
+  overflow: hidden;
+  padding: 0 0 4px 6px;
+  vertical-align: baseline;
+  color: #666;
+}
+.proDetail-content .breadcrumb .sort-top a {
+  font-family: "瀹嬩綋";
+}
+.proDetail-content .breadcrumb .sort-top a,
+.proDetail-content .breadcrumb .sort-top span {
+  padding: 0 6px;
+}
+.proDetail-content h2 {
+  display: inline;
+}
+.proDetail-content h2 a {
+  font-family: "microsoft yahei";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 20px;
+}
+
+.pro-main {
+  overflow: hidden;
+}
+
+.pic-big {
+  display: inline;
+  float: left;
+  padding: 0;
+  width: 392px;
+  position: relative;
+}
+.pic-big .two .fl a {
+  width: 15px;
+  height: 60px;
+  margin-right: 3px;
+  float: left;
+  background-position: 0 -182px;
+}
+.pic-big .two .fr a {
+  width: 15px;
+  height: 60px;
+  margin-left: 3px;
+  float: right;
+  background-position: -45px -182px;
+}
+
+.pro-mainr {
+  color: #666666;
+  float: left;
+  margin: 0 0 0 20px;
+  width: 558px;
+  padding-right: 220px;
+  font-size: 12px;
+  position: relative;
+}
+.pro-mainr .name {
+  color: #EAA071;
+  display: block;
+  font-size: 16px;
+  font-family: "microsoft yahei";
+}
+.pro-mainr h2 {
+  color: #333333;
+  font-size: 16px;
+  font-family: "microsoft yahei";
+  font-weight: bold;
+  line-height: 20px;
+  margin-bottom: 3px;
+  height: auto;
+}
+.pro-mainr .proInfo {
+  padding: 5px 0 10px;
+}
+.pro-mainr .proInfo #fullAddress {
+  border: 0;
+}
+.pro-mainr .proInfo .blue {
+  color: #005AA0;
+  font-weight: bold;
+}
+.pro-mainr .proInfo strong {
+  font-weight: bold;
+}
+.pro-mainr .proInfo a {
+  color: #666666;
+  outline: medium none;
+  cursor: pointer;
+}
+.pro-mainr .proInfo .adrs {
+  position: relative;
+  z-index: 2;
+  float: left;
+  margin-right: 8px;
+}
+.pro-mainr .proInfo #city_none {
+  display: none;
+  width: 306px;
+  height: 162px;
+  padding: 15px;
+  border: 1px solid #CECBCE;
+  background: #FFF;
+  box-shadow: 0 0 5px #DDDDDD;
+  position: absolute;
+  top: 23px;
+  left: -45px;
+  z-index: 2;
+}
+.pro-mainr .proInfo .adrs .text {
+  padding: 0 24px 0 5px;
+  border: 1px #ddd solid;
+  height: 22px;
+  line-height: 22px;
+  position: relative;
+  float: left;
+  background: #fff;
+  z-index: 1;
+}
+.pro-mainr .proInfo .adrs .text em {
+  width: 9px;
+  height: 6px;
+  position: absolute;
+  right: 6px;
+  top: 9px;
+  font-size: 0;
+  line-height: 0;
+  background-position: -19px -19px;
+}
+.pro-mainr .proInfo li {
+  clear: both;
+  padding: 6px 0;
+  line-height: 18px;
+  min-height: 18px;
+}
+.pro-mainr .proInfo li .dt {
+  float: left;
+  text-align: left;
+  width: 72px;
+}
+.pro-mainr .proInfo li .dd {
+  float: left;
+}
+.pro-mainr .proInfo li .price {
+  font-family: "microsoft yahei";
+  font-size: 18px;
+  font-weight: 700;
+  color: #DA2B26;
+  margin-right: 5px;
+}
+.pro-mainr .proInfo li .wt {
+  text-decoration: none;
+  margin: 0 3px;
+}
+.pro-mainr .proInfo li a span {
+  color: #FF0000;
+}
+.pro-mainr .buy {
+  border-top: 1px dotted #D3D3D3;
+  border-bottom: 1px dotted #D3D3D3;
+}
+.pro-mainr .buy li {
+  line-height: 24px;
+}
+.pro-mainr .buy .buyNum {
+  float: left;
+}
+.pro-mainr .buy .buyNum input {
+  float: left;
+  width: 38px;
+  height: 18px;
+  line-height: 18px;
+  text-align: center;
+  border: 1px #aaa solid;
+}
+.pro-mainr .buy .buyNum a {
+  float: left;
+  width: 13px;
+  height: 13px;
+  font-size: 0;
+  line-height: 0;
+  margin-top: 4px;
+}
+.pro-mainr .buy .reducePro {
+  margin-right: 4px;
+  background-position: -92px -182px;
+}
+.pro-mainr .buy .reducePro:hover {
+  background-position: -106px -182px;
+}
+.pro-mainr .buy .addPro {
+  margin-left: 4px;
+  background-position: -120px -182px;
+}
+.pro-mainr .buy .addPro:hover {
+  background-position: -134px -182px;
+}
+.pro-mainr .buy .slt {
+  float: left;
+  width: 425px;
+}
+.pro-mainr .buy .slt a {
+  float: left;
+  padding: 0 5px;
+  height: 24px;
+  margin-bottom: 5px;
+  line-height: 24px;
+  text-align: center;
+  margin-right: 6px;
+  white-space: nowrap;
+}
+.pro-mainr .buy .slt .selected {
+  background: url(../images/detail_icSelBg.gif) no-repeat right bottom;
+  border: 2px solid #E43B3E;
+  cursor: pointer;
+  padding: 0 4px;
+  height: 22px;
+  line-height: 22px;
+}
+.pro-mainr .buy .slt .unselected {
+  border: 1px solid #C8C9CD;
+  cursor: pointer;
+  color: #333;
+}
+.pro-mainr .buy .buy-btn {
+  clear: both;
+  height: 42px;
+}
+.pro-mainr .buy .buy-btn a {
+  float: left;
+  text-align: center;
+  width: 160px;
+  height: 42px;
+  margin-right: 15px;
+  color: #fff;
+  font: 700 16px/42px "microsoft yahei";
+}
+.pro-mainr .buy .buy-btn .orgBtn {
+  background: #E9A171;
+}
+.pro-mainr .buy .buy-btn .orgBtn:hover {
+  background: #E78748;
+}
+.pro-mainr .buy .buy-btn .redBtn {
+  background: #DA2B28;
+}
+.pro-mainr .buy .buy-btn .redBtn:hover {
+  background: #C8100D;
+}
+
+#merchantInfo {
+  width: 200px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  background-color: #fff;
+}
+
+.shopbox {
+  width: 198px;
+  border: 1px #ebebeb solid;
+  border-bottom: 0;
+  background: #fff;
+}
+.shopbox .shopinfo {
+  padding: 8px;
+  border-bottom: 1px #ebebeb solid;
+  overflow: hidden;
+}
+.shopbox .shopinfo .mt {
+  clear: both;
+  overflow: hidden;
+  padding: 0 0 3px;
+}
+.shopbox .shopinfo label {
+  float: left;
+}
+.shopbox .shopinfo span {
+  float: left;
+  width: 120px;
+  word-break: break-all;
+  word-wrap: break-word;
+}
+.shopbox .shopinfo .dt {
+  float: left;
+}
+.shopbox .shopinfo .star {
+  width: 79px;
+  height: 15px;
+  background-position: 0 -267px;
+  font-size: 0;
+  line-height: 0;
+  float: left;
+  margin: 2px 10px 0 0;
+}
+.shopbox .shopinfo .star span {
+  width: 76px;
+  height: 15px;
+  float: left;
+  background-position: 0 -284px;
+  font-size: 0;
+  line-height: 0;
+}
+.shopbox .shopinfo .btn {
+  clear: both;
+  padding: 8px 0 6px;
+}
+.shopbox .shopinfo .btn a {
+  width: 70px;
+  height: 22px;
+  line-height: 22px;
+  background: #fafafa;
+  border: 1px #d8d8d8 solid;
+  border-radius: 2px;
+  text-align: center;
+  font-size: 12px;
+  color: #f58031;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0 8px;
+}
+
+.share {
+  overflow: hidden;
+  margin: 10px 0 20px 0;
+}
+.share a {
+  float: left;
+  font-size: 12px;
+  padding-left: 17px;
+  line-height: 16px;
+  height: 16px;
+  cursor: pointer;
+  margin: 6px 6px 6px 0;
+}
+.share a:hover {
+  color: #333;
+  opacity: .8;
+}
+.share .bds_qzone {
+  background-position: 0 -52px;
+}
+.share .bds_tsina {
+  background-position: 0 -104px;
+}
+.share .bds_tqq {
+  background-position: 0 -260px;
+}
+.share .bds_renren {
+  background-position: 0 -208px;
+}
+.share .bds_weixin {
+  background-position: 0 -1612px;
+}
+.share .bds_sqq {
+  background-position: 0 -2652px;
+}
+
+.proMain-detail {
+  width: 990px;
+  float: right;
+}
+.proMain-detail .tab {
+  height: 32px;
+  border-left: 1px #ddd solid;
+  border-right: 1px #ddd solid;
+}
+.proMain-detail .tab li {
+  float: left;
+  width: 118px;
+  cursor: pointer;
+  color: #666;
+  line-height: 32px;
+  text-align: center;
+  font-family: "microsoft yahei";
+  font-size: 14px;
+}
+.proMain-detail .tab .curr {
+  border-top: 4px #E9A171 solid;
+  border-left: 1px #ddd solid;
+  border-right: 1px #ddd solid;
+  background: #fff;
+  height: 28px;
+  line-height: 28px;
+  color: #333;
+  text-align: center;
+}
+.proMain-detail .f1 {
+  float: left;
+}
+.proMain-detail .detail-content {
+  clear: both;
+  margin-bottom: 30px;
+}
+.proMain-detail .detail-content .box {
+  border: 1px solid #ddd;
+  margin-bottom: 10px;
+  padding: 7px 22px 10px;
+}
+
+/*# sourceMappingURL=proDetail.css.map */

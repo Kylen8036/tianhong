@@ -1,0 +1,414 @@
+.proDetail-content {
+    a:hover {
+        color: #da2b28;
+    }
+    width: 1190px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    .breadcrumb {
+        height: 22px;
+        line-height: 22px;
+        margin: 10px 0;
+        overflow: hidden;
+        padding: 0 0 4px 6px;
+        vertical-align: baseline;
+        color: #666;
+        .sort-top a {
+            font-family: "宋体";
+        }
+        .sort-top a,
+        .sort-top span {
+            padding: 0 6px;
+        }
+    }
+    h2 {
+        display: inline;
+        a {
+            font-family: "microsoft yahei";
+            font-size: 18px;
+            font-weight: 700;
+            line-height: 20px;
+        }
+    }
+}
+
+.pro-main {
+    overflow: hidden;
+}
+
+.pic-big {
+    display: inline;
+    float: left;
+    padding: 0;
+    width: 392px;
+    // border: 1px solid #111;
+    position: relative;
+    .two {
+        .fl a {
+            width: 15px;
+            height: 60px;
+            margin-right: 3px;
+            float: left;
+            background-position: 0 -182px;
+        }
+        .fr a {
+            width: 15px;
+            height: 60px;
+            margin-left: 3px;
+            float: right;
+            background-position: -45px -182px;
+        }
+    }
+}
+
+.pro-mainr {
+    color: #666666;
+    float: left;
+    margin: 0 0 0 20px;
+    width: 558px;
+    padding-right: 220px;
+    font-size: 12px;
+    position: relative;
+    .name {
+        color: #EAA071;
+        display: block;
+        font-size: 16px;
+        font-family: "microsoft yahei";
+    }
+    h2 {
+        color: #333333;
+        font-size: 16px;
+        font-family: "microsoft yahei";
+        font-weight: bold;
+        line-height: 20px;
+        margin-bottom: 3px;
+        height: auto;
+    }
+    .proInfo {
+        padding: 5px 0 10px;
+        #fullAddress {
+            border: 0;
+        }
+        .blue {
+            color: #005AA0;
+            font-weight: bold;
+        }
+        strong {
+            font-weight: bold;
+        }
+        a {
+            color: #666666;
+            outline: medium none;
+            cursor: pointer;
+        }
+        .adrs {
+            position: relative;
+            z-index: 2;
+            float: left;
+            margin-right: 8px;
+        }
+        #city_none {
+            display: none;
+            width: 306px;
+            height: 162px;
+            padding: 15px;
+            border: 1px solid #CECBCE;
+            background: #FFF;
+            box-shadow: 0 0 5px #DDDDDD;
+            position: absolute;
+            top: 23px;
+            left: -45px;
+            z-index: 2;
+        }
+        .adrs .text {
+            padding: 0 24px 0 5px;
+            border: 1px #ddd solid;
+            height: 22px;
+            line-height: 22px;
+            position: relative;
+            float: left;
+            background: #fff;
+            z-index: 1;
+            em {
+                width: 9px;
+                height: 6px;
+                position: absolute;
+                right: 6px;
+                top: 9px;
+                font-size: 0;
+                line-height: 0;
+                background-position: -19px -19px;
+            }
+        }
+        li {
+            clear: both;
+            padding: 6px 0;
+            line-height: 18px;
+            min-height: 18px;
+            .dt {
+                float: left;
+                text-align: left;
+                width: 72px;
+            }
+            .dd {
+                float: left;
+            }
+            .price {
+                font-family: "microsoft yahei";
+                font-size: 18px;
+                font-weight: 700;
+                color: #DA2B26;
+                margin-right: 5px;
+            }
+            .wt {
+                text-decoration: none;
+                margin: 0 3px;
+            }
+            a span {
+                color: #FF0000;
+            }
+        }
+    }
+    .buy {
+        border-top: 1px dotted #D3D3D3;
+        border-bottom: 1px dotted #D3D3D3;
+        li {
+            line-height: 24px;
+        }
+        .buyNum {
+            float: left;
+            input {
+                float: left;
+                width: 38px;
+                height: 18px;
+                line-height: 18px;
+                text-align: center;
+                border: 1px #aaa solid;
+            }
+            a {
+                float: left;
+                width: 13px;
+                height: 13px;
+                font-size: 0;
+                line-height: 0;
+                margin-top: 4px;
+            }
+        }
+        .reducePro {
+            margin-right: 4px;
+            background-position: -92px -182px;
+            &:hover {
+                background-position: -106px -182px;
+            }
+        }
+        .addPro {
+            margin-left: 4px;
+            background-position: -120px -182px;
+            &:hover {
+                background-position: -134px -182px
+            }
+        }
+        .slt {
+            float: left;
+            width: 425px;
+            a {
+                float: left;
+                padding: 0 5px;
+                height: 24px;
+                margin-bottom: 5px;
+                line-height: 24px;
+                text-align: center;
+                margin-right: 6px;
+                white-space: nowrap;
+            }
+            .selected {
+                background: url(../images/detail_icSelBg.gif) no-repeat right bottom;
+                border: 2px solid #E43B3E;
+                cursor: pointer;
+                padding: 0 4px;
+                height: 22px;
+                line-height: 22px;
+            }
+            .unselected {
+                border: 1px solid #C8C9CD;
+                cursor: pointer;
+                color: #333;
+            }
+        }
+        .buy-btn {
+            clear: both;
+            height: 42px;
+            a {
+                float: left;
+                text-align: center;
+                width: 160px;
+                height: 42px;
+                margin-right: 15px;
+                color: #fff;
+                font: 700 16px/42px "microsoft yahei";
+            }
+            .orgBtn {
+                background: #E9A171;
+                &:hover{
+                    background: #E78748;
+                }
+            }
+            .redBtn {
+                background: #DA2B28;
+                &:hover{
+                   background: #C8100D;
+                }
+            }
+        }
+    }
+}
+
+#merchantInfo {
+    width: 200px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-color: #fff;
+}
+
+.shopbox {
+    width: 198px;
+    border: 1px #ebebeb solid;
+    border-bottom: 0;
+    background: #fff;
+    .shopinfo {
+        padding: 8px;
+        border-bottom: 1px #ebebeb solid;
+        overflow: hidden;
+        .mt {
+            clear: both;
+            overflow: hidden;
+            padding: 0 0 3px
+        }
+        label {
+            float: left;
+        }
+        span {
+            float: left;
+            width: 120px;
+            word-break: break-all;
+            word-wrap: break-word;
+        }
+        .dt {
+            float: left;
+        }
+        .star {
+            width: 79px;
+            height: 15px;
+            background-position: 0 -267px;
+            font-size: 0;
+            line-height: 0;
+            float: left;
+            margin: 2px 10px 0 0;
+            span {
+                width: 76px;
+                height: 15px;
+                float: left;
+                background-position: 0 -284px;
+                font-size: 0;
+                line-height: 0;
+            }
+        }
+        .btn {
+            clear: both;
+            padding: 8px 0 6px;
+            a {
+                width: 70px;
+                height: 22px;
+                line-height: 22px;
+                background: #fafafa;
+                border: 1px #d8d8d8 solid;
+                border-radius: 2px;
+                text-align: center;
+                font-size: 12px;
+                color: #f58031;
+                text-decoration: none;
+                display: inline-block;
+                margin: 0 8px;
+            }
+        }
+    }
+}
+
+.share{
+    overflow: hidden;
+    margin: 10px 0 20px 0;
+    a{
+        float: left;
+        font-size: 12px;
+        padding-left: 17px;
+        line-height: 16px;
+        height: 16px;
+        cursor: pointer;
+        margin: 6px 6px 6px 0;
+    }
+    a:hover{
+        color: #333;
+        opacity: .8;
+    }
+    .bds_qzone{
+        background-position: 0 -52px;
+    }
+    .bds_tsina{
+        background-position: 0 -104px;
+    }
+    .bds_tqq{
+        background-position: 0 -260px;
+    }
+    .bds_renren{
+        background-position: 0 -208px;
+    }
+    .bds_weixin{
+        background-position: 0 -1612px;
+    }
+    .bds_sqq{
+        background-position: 0 -2652px;
+    }
+}
+.proMain-detail {
+    width: 990px;
+    float: right;
+    .tab {
+        height: 32px;
+        // background: url(../images/bor-repeat1.gif) repeat-x 0 0;
+        border-left: 1px #ddd solid;
+        border-right: 1px #ddd solid;
+        li {
+            float: left;
+            width: 118px;
+            cursor: pointer;
+            color: #666;
+            line-height: 32px;
+            text-align: center;
+            font-family: "microsoft yahei";
+            font-size: 14px;
+        }
+        .curr {
+            border-top: 4px #E9A171 solid;
+            border-left: 1px #ddd solid;
+            border-right: 1px #ddd solid;
+            background: #fff;
+            height: 28px;
+            line-height: 28px;
+            color: #333;
+            text-align: center;
+        }
+    }
+    .f1 {
+        float: left;
+    }
+    .detail-content {
+        clear: both;
+        margin-bottom: 30px;
+        .box {
+            border: 1px solid #ddd;
+            margin-bottom: 10px;
+            padding: 7px 22px 10px;
+        }
+    }
+}

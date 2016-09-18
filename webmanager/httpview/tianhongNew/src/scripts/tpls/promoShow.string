@@ -1,0 +1,20 @@
+<div class="promo-show proDetail">
+    <div class="bg"></div>
+    <ul>
+        <li>
+            <a href="#"><img src="picture/ee4134f9-8c08-4df3-aa37-5fbc7d63dc78.png" alt=""></a>
+        </li>
+        <li class="line"></li>
+        <li>
+            <a href="#"><img src="picture/6a22d720-38d0-45c8-ae83-c9bb0287730e.png" alt=""></a>
+        </li>
+        <li class="line"></li>
+        <li>
+            <a href="#"><img src="picture/9cde941c-25df-4617-a6fd-87b32b0adb68.jpg" alt=""></a>
+        </li>
+        <li class="line"></li>
+        <li>
+            <a href="#"><img src="picture/3c06e684-aaec-45ae-9ebf-070197951f6e.png" alt=""></a>
+        </li>
+    </ul>
+</div>

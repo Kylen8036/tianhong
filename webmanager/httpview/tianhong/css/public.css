@@ -1,0 +1,76 @@
+/*----------------------------PUBLIC--------------------------------------*/
+
+body,p,ul,li,ol,dl,dt,dd,h1,h2,h3,h4,h5,h6,fieldset,legend,input{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font: 12px/150% Arial, Verdana, "宋体";
+    color: #666;
+}
+h1,h2,h3,h4,h5,h6,em,strong {
+    font-weight: normal;
+}
+
+li{
+    list-style: none;
+}
+a{
+    font: 12px/150% Arial, Verdana, "宋体";
+    color: #666;
+    text-decoration: none;
+}
+img{
+    border: 0;
+}
+input{
+    outline: none;
+}
+.clear:after{
+    content: ".";
+    clear: both;
+    display: block;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+}
+.clear{
+    zoom: 1;
+}
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
+.icon{
+    background-image: url(../images/thnewbg.png);
+    backrgound-repeat: no-repeat;
+}
+.icon1{
+    background-image: url(../images/thnewbg_1.png);
+    backrgound-repeat: no-repeat;
+}
+.loginBtn{
+    background-image: url(../images/loginbtn.gif);
+    backrgound-repeat: no-repeat;
+}
+.regBtn{
+    background-image: url(../images/login_btnreg.gif);
+    backrgound-repeat: no-repeat;
+}
+.minorIcon{
+    background-image: url(../images/arrorpng.png);
+    backrgound-repeat: no-repeat;
+}
+.minorIcon-right{
+    background-image: url(../images/arrorpng1.png);
+    background-repeat: no-repeat;
+}
+.minorIcon2{
+    background-image: url(../images/menubg.png);
+    backrgound-repeat: no-repeat;
+}
+.shareIcon{
+    background-image: url(../images/icons_0_16.png);
+    backrgound-repeat: no-repeat;
+}
+

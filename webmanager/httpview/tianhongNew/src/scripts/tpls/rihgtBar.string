@@ -1,0 +1,34 @@
+<div id="right_bar">
+    <div class="frcart-wrap">
+        <div class="frcart">
+            <i class="minorIcon-right icon-cart"></i>
+            <span>购<br>物<br>车<br></span>
+            <i id="cartItemCount">0</i>
+        </div>
+    </div>
+    <ul class="talist">
+        <li>
+            <a class="minorIcon-right i1" href="#"></a>
+        </li>
+        <li>
+            <a class="minorIcon-right i2" href="#"></a>
+        </li>
+        <li>
+            <a class="minorIcon-right i3" href="#"></a>
+        </li>
+        <li>
+            <a class="minorIcon-right i4" href="#"></a>
+        </li>
+        <li>
+            <a class="minorIcon-right i5" href="#"></a>
+        </li>
+    </ul>
+    <ul class="talist talistBom">
+        <li>
+            <a id="ewmLi" class="minorIcon-right" href="#"></a>
+        </li>
+        <li>
+            <a class="minorIcon-right fadout" href="#"></a>
+        </li>
+    </ul>
+</div>

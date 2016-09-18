@@ -1,0 +1,72 @@
+
+.logout-content{
+  border: 5px solid #efefef;
+  margin-bottom: 70px;
+  width: 980px;
+  margin: 0 auto;
+  .l-login{
+    float: left;
+    width: 560px;
+    height: 428px;
+  }
+  .r-login{
+    float: right;
+    width: 345px;
+    padding-left: 35px;
+    margin-top: 33px;
+    background: url(../images/l-line.gif) no-repeat left top;
+    .login-form{
+      width: 305px;
+      margin: 0 auto;
+    }
+    .acount-txt, .pwd-txt{
+      display: block;
+      padding-top: 5px;
+      text-align: left;
+      color: #999;
+      font-size: 14px;
+    }
+    .pwd{
+      margin-top: 23px;
+    }
+    .txt{
+      width: 243px;
+      height: 24px;
+      line-height: 24px;
+      padding: 4px 25px 4px 5px;
+      border: 1px solid #ccc;
+    }
+    .remmber-accout{
+      clear: both;
+      margin: 23px 0 16px 0;
+      line-height: 24px;
+      input{
+        vertical-align: middle;
+      }
+      a{
+        color: #005AA0;
+      }
+      #forget-pwd{
+        margin-left: 15px;
+      }
+    }
+    .loginbtn{
+      width: 275px;
+      height: 35px;
+      border: 0;
+      margin-bottom: 15px;
+      background-position: 0 0;
+      cursor: pointer;
+    }
+    .registerBtn{
+      color: #E13939;
+      font-size: 16px;
+      font-family: "microsoft yahei";
+      width: 134px;
+      height: 33px;
+      line-height: 33px;
+      border: 0;
+      background-position: 0 -238px;
+    }
+  }
+}

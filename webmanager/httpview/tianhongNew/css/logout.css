@@ -1,0 +1,73 @@
+.logout-content {
+  border: 5px solid #efefef;
+  margin-bottom: 70px;
+  width: 980px;
+  margin: 0 auto;
+}
+.logout-content .l-login {
+  float: left;
+  width: 560px;
+  height: 428px;
+}
+.logout-content .r-login {
+  float: right;
+  width: 345px;
+  padding-left: 35px;
+  margin-top: 33px;
+  background: url(../images/l-line.gif) no-repeat left top;
+}
+.logout-content .r-login .login-form {
+  width: 305px;
+  margin: 0 auto;
+}
+.logout-content .r-login .acount-txt, .logout-content .r-login .pwd-txt {
+  display: block;
+  padding-top: 5px;
+  text-align: left;
+  color: #999;
+  font-size: 14px;
+}
+.logout-content .r-login .pwd {
+  margin-top: 23px;
+}
+.logout-content .r-login .txt {
+  width: 243px;
+  height: 24px;
+  line-height: 24px;
+  padding: 4px 25px 4px 5px;
+  border: 1px solid #ccc;
+}
+.logout-content .r-login .remmber-accout {
+  clear: both;
+  margin: 23px 0 16px 0;
+  line-height: 24px;
+}
+.logout-content .r-login .remmber-accout input {
+  vertical-align: middle;
+}
+.logout-content .r-login .remmber-accout a {
+  color: #005AA0;
+}
+.logout-content .r-login .remmber-accout #forget-pwd {
+  margin-left: 15px;
+}
+.logout-content .r-login .loginbtn {
+  width: 275px;
+  height: 35px;
+  border: 0;
+  margin-bottom: 15px;
+  background-position: 0 0;
+  cursor: pointer;
+}
+.logout-content .r-login .registerBtn {
+  color: #E13939;
+  font-size: 16px;
+  font-family: "microsoft yahei";
+  width: 134px;
+  height: 33px;
+  line-height: 33px;
+  border: 0;
+  background-position: 0 -238px;
+}
+
+/*# sourceMappingURL=logout.css.map */

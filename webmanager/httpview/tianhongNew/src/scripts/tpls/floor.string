@@ -1,0 +1,2757 @@
+<div id="floor1" class="floor">
+    <div class="floor-top">
+        <h2>美食馆</h2>
+        <div class="tab">
+            <ul>
+                <li class="floor1-1"><a href="#">美食推荐</a></li>
+                <li class="floor1-2"><a href="#">中秋月饼</a></li>
+                <li class="floor1-3"><a href="#">粮油奶品</a></li>
+                <li class="floor1-4"><a href="#">吃货天堂</a></li>
+                <li class="floor1-5"><a href="#">畅饮提神</a></li>
+            </ul>
+        </div>
+        
+    </div>
+    <div class="food-left">
+        <img src="picture/fe012496-6638-49bf-b859-773cc47db61e.jpg" alt="">
+        <div class="subSort">
+            <a href="#">精品粮油</a>
+            <a href="#">聚餐饮品</a>
+            <a href="#">零食乐园</a>
+            <a href="#">缤纷鲜果</a>
+            <a href="#">营养奶品</a>
+            <a href="#">保健滋补</a>
+            <a href="#">冲饮茶叶</a>
+            <a href="#">全球海鲜</a>
+        </div>
+    </div>
+    <div class="food-right proDetail">
+        <div id="floor1_1" class="m2">
+            <ul class="adItem">
+                <li>
+                    <a href="#"><img src="picture/a0e29d42-31e8-4eb3-b982-f47192a42952.jpg" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro1.png" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro2.jpg" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro3.jpg" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro4.jpg" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro5.jpg" alt=""></a>
+                </li>
+            </ul>
+            <div class="m3">
+                <a href="#"><img src="picture/71f14870-de37-4483-8343-0e0d2363ee97.jpg" alt=""></a>
+                <a href="#"><img src="picture/pro6.jpg" alt=""></a>
+            </div>
+        </div>
+
+        <div id="floor1_2" class="m2" style="display: none;">
+            <ul class="productList">
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0032.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">青怡庄园-有机红小豆380g 东北五谷杂粮</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0033.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">良工坊巴马十宝米(1.5kg)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥45.0</span>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0034.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">△永福元银耳(90g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0035.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">简单爱 气血和健康汤料套装315g</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0036.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">DB甸禾有机杂粮礼盒-福贵年年(2.016kg(1*9包))</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0037.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元薏米(454g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0038.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元枸杞(甲级)(250g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0039.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">甸禾有机糙米(1000g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div id="floor1_3" class="m2" style="display: none;">
+            <ul class="productList">
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0040.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">青怡庄园-有机红小豆380g 东北五谷杂粮</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0041.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">良工坊巴马十宝米(1.5kg)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥45.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0042.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">△永福元银耳(90g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0043.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">简单爱 气血和健康汤料套装315g</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0044.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">DB甸禾有机杂粮礼盒-福贵年年(2.016kg(1*9包))</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0045.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元薏米(454g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0046.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元枸杞(甲级)(250g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0047.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">甸禾有机糙米(1000g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+            </ul>
+        </div>    
+        <div id="floor1_4" class="m2" style="display: none;">
+            <ul class="productList">
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0048.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">青怡庄园-有机红小豆380g 东北五谷杂粮</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0049.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">良工坊巴马十宝米(1.5kg)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥45.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0050.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">△永福元银耳(90g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0051.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">简单爱 气血和健康汤料套装315g</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0052.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">DB甸禾有机杂粮礼盒-福贵年年(2.016kg(1*9包))</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0053.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元薏米(454g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0054.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元枸杞(甲级)(250g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0055.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">甸禾有机糙米(1000g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div id="floor1_5" class="m2" style="display: none;">
+            <ul class="productList">
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0056.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">青怡庄园-有机红小豆380g 东北五谷杂粮</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0057.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">良工坊巴马十宝米(1.5kg)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥45.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0058.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">△永福元银耳(90g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0059.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">简单爱 气血和健康汤料套装315g</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0060.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">DB甸禾有机杂粮礼盒-福贵年年(2.016kg(1*9包))</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0061.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元薏米(454g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0062.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元枸杞(甲级)(250g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0063.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">甸禾有机糙米(1000g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        
+    </div>
+</div>
+<div id="floor2" class="floor">
+    <div class="floor-top">
+        <h2>服饰馆</h2>
+        <div class="tab">
+            <ul>
+                <li class="floor2-1"><a href="#">品牌促销</a></li>
+                <li class="floor2-2"><a href="#">女装内衣</a></li>
+                <li class="floor2-3"><a href="#">品牌男装</a></li>
+                <li class="floor2-4"><a href="#">鞋靴箱包</a></li>
+                <li class="floor2-5"><a href="#">钟表配饰</a></li>
+            </ul>
+        </div>
+        
+    </div>
+    <div class="food-left">
+        <img src="picture/80d1224b-4cb1-406a-8054-b7e16c374278.jpg" alt="">
+        <div class="subSort">
+            <a href="#">花花公子男包</a>
+            <a href="#">丽天妮</a>
+            <a href="#">BananaBaby</a>
+            <a href="#">飞亚达 </a>
+            <a href="#">男士裤装</a>
+            <a href="#">安莉芳</a>
+            <a href="#">冲舒适家居服饮茶叶</a>
+            <a href="#">太阳镜</a>
+            <a href="#">潮流男鞋</a>
+            <a href="#">运动风</a>
+            <a href="#">男士T恤</a>
+        </div>
+    </div>
+    <div class="food-right proDetail">
+        <div id="floor2_1" class="m2" style="display: none;">
+            <ul class="adItem">
+                <li>
+                    <a href="#"><img src="picture/a0e29d42-31e8-4eb3-b982-f47192a42952.jpg" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro1.png" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro2.jpg" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro3.jpg" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro4.jpg" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro5.jpg" alt=""></a>
+                </li>
+            </ul>
+            <div class="m3">
+                <a href="#"><img src="picture/71f14870-de37-4483-8343-0e0d2363ee97.jpg" alt=""></a>
+                <a href="#"><img src="picture/pro6.jpg" alt=""></a>
+            </div>
+        </div>
+
+        <div id="floor2_2" class="m2">
+            <ul class="productList">
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0064.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">青怡庄园-有机红小豆380g 东北五谷杂粮</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0065.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">良工坊巴马十宝米(1.5kg)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥45.0</span>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0066.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">△永福元银耳(90g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0067.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">简单爱 气血和健康汤料套装315g</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0068.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">DB甸禾有机杂粮礼盒-福贵年年(2.016kg(1*9包))</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0069.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元薏米(454g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0070.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元枸杞(甲级)(250g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0071.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">甸禾有机糙米(1000g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div id="floor2_3" class="m2" style="display: none;">
+            <ul class="productList">
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0040.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">青怡庄园-有机红小豆380g 东北五谷杂粮</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0041.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">良工坊巴马十宝米(1.5kg)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥45.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0042.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">△永福元银耳(90g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0043.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">简单爱 气血和健康汤料套装315g</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0044.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">DB甸禾有机杂粮礼盒-福贵年年(2.016kg(1*9包))</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0045.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元薏米(454g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0046.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元枸杞(甲级)(250g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0047.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">甸禾有机糙米(1000g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+            </ul>
+        </div>    
+        <div id="floor2_4" class="m2" style="display: none;">
+            <ul class="productList">
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0048.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">青怡庄园-有机红小豆380g 东北五谷杂粮</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0049.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">良工坊巴马十宝米(1.5kg)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥45.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0050.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">△永福元银耳(90g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0051.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">简单爱 气血和健康汤料套装315g</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0052.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">DB甸禾有机杂粮礼盒-福贵年年(2.016kg(1*9包))</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0053.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元薏米(454g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0054.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元枸杞(甲级)(250g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0055.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">甸禾有机糙米(1000g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div id="floor2_5" class="m2" style="display: none;">
+            <ul class="productList">
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0056.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">青怡庄园-有机红小豆380g 东北五谷杂粮</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0057.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">良工坊巴马十宝米(1.5kg)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥45.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0058.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">△永福元银耳(90g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0059.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">简单爱 气血和健康汤料套装315g</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0060.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">DB甸禾有机杂粮礼盒-福贵年年(2.016kg(1*9包))</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0061.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元薏米(454g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0062.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元枸杞(甲级)(250g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0063.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">甸禾有机糙米(1000g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        
+    </div>
+</div>
+<div id="floor3" class="floor">
+    <div class="floor-top">
+        <h2>母婴馆</h2>
+        <div class="tab">
+            <ul>
+                <li class="floor3-1"><a href="#">母婴精选</a></li>
+                <li class="floor3-2"><a href="#">奶粉尿裤</a></li>
+                <li class="floor3-3"><a href="#">孕婴用品</a></li>
+                <li class="floor3-4"><a href="#">车床玩具</a></li>
+                <li class="floor3-5"><a href="#">孕婴童装</a></li>
+            </ul>
+        </div>
+        
+    </div>
+    <div class="food-left">
+        <img src="picture/3f890830-1c30-4849-8c81-3219ed36ff3a.jpg" alt="">
+        <div class="subSort">
+            <a href="#">花花公子男包</a>
+            <a href="#">丽天妮</a>
+            <a href="#">BananaBaby</a>
+            <a href="#">飞亚达 </a>
+            <a href="#">男士裤装</a>
+            <a href="#">安莉芳</a>
+            <a href="#">冲舒适家居服饮茶叶</a>
+            <a href="#">太阳镜</a>
+            <a href="#">潮流男鞋</a>
+            <a href="#">运动风</a>
+            <a href="#">男士T恤</a>
+        </div>
+    </div>
+    <div class="food-right proDetail">
+        <div id="floor3_1" class="m2" style="display: none;">
+            <ul class="adItem">
+                <li>
+                    <a href="#"><img src="picture/a0e29d42-31e8-4eb3-b982-f47192a42952.jpg" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro1.png" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro2.jpg" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro3.jpg" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro4.jpg" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro5.jpg" alt=""></a>
+                </li>
+            </ul>
+            <div class="m3">
+                <a href="#"><img src="picture/71f14870-de37-4483-8343-0e0d2363ee97.jpg" alt=""></a>
+                <a href="#"><img src="picture/pro6.jpg" alt=""></a>
+            </div>
+        </div>
+
+        <div id="floor3_2" class="m2">
+            <ul class="productList">
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0072.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">青怡庄园-有机红小豆380g 东北五谷杂粮</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0073.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">良工坊巴马十宝米(1.5kg)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥45.0</span>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0074.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">△永福元银耳(90g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0075.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">简单爱 气血和健康汤料套装315g</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0076.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">DB甸禾有机杂粮礼盒-福贵年年(2.016kg(1*9包))</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0077.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元薏米(454g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0078.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元枸杞(甲级)(250g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0079.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">甸禾有机糙米(1000g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div id="floor3_3" class="m2" style="display: none;">
+            <ul class="productList">
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0040.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">青怡庄园-有机红小豆380g 东北五谷杂粮</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0041.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">良工坊巴马十宝米(1.5kg)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥45.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0042.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">△永福元银耳(90g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0043.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">简单爱 气血和健康汤料套装315g</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0044.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">DB甸禾有机杂粮礼盒-福贵年年(2.016kg(1*9包))</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0045.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元薏米(454g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0046.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元枸杞(甲级)(250g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0047.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">甸禾有机糙米(1000g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+            </ul>
+        </div>    
+        <div id="floor3_4" class="m2" style="display: none;">
+            <ul class="productList">
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0048.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">青怡庄园-有机红小豆380g 东北五谷杂粮</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0049.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">良工坊巴马十宝米(1.5kg)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥45.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0050.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">△永福元银耳(90g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0051.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">简单爱 气血和健康汤料套装315g</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0052.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">DB甸禾有机杂粮礼盒-福贵年年(2.016kg(1*9包))</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0053.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元薏米(454g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0054.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元枸杞(甲级)(250g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0055.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">甸禾有机糙米(1000g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div id="floor3_5" class="m2" style="display: none;">
+            <ul class="productList">
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0056.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">青怡庄园-有机红小豆380g 东北五谷杂粮</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0057.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">良工坊巴马十宝米(1.5kg)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥45.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0058.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">△永福元银耳(90g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0059.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">简单爱 气血和健康汤料套装315g</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0060.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">DB甸禾有机杂粮礼盒-福贵年年(2.016kg(1*9包))</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0061.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元薏米(454g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0062.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元枸杞(甲级)(250g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0063.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">甸禾有机糙米(1000g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        
+    </div>
+</div>
+<div id="floor4" class="floor">
+    <div class="floor-top">
+        <h2>生活馆</h2>
+        <div class="tab">
+            <ul>
+                <li class="floor4-1"><a href="#">品牌促销</a></li>
+                <li class="floor4-2"><a href="#">精选推荐</a></li>
+                <li class="floor4-3"><a href="#">洗衣纸品</a></li>
+                <li class="floor4-4"><a href="#">厨房用品</a></li>
+                <li class="floor4-5"><a href="#">家居家纺</a></li>
+            </ul>
+        </div>
+        
+    </div>
+    <div class="food-left">
+        <img src="picture/cdc7d667-7e43-455e-8658-45341d3991b1.jpg" alt="">
+        <div class="subSort">
+            <a href="#">花花公子男包</a>
+            <a href="#">丽天妮</a>
+            <a href="#">BananaBaby</a>
+            <a href="#">飞亚达 </a>
+            <a href="#">男士裤装</a>
+            <a href="#">安莉芳</a>
+            <a href="#">冲舒适家居服饮茶叶</a>
+            <a href="#">太阳镜</a>
+            <a href="#">潮流男鞋</a>
+            <a href="#">运动风</a>
+            <a href="#">男士T恤</a>
+        </div>
+    </div>
+    <div class="food-right proDetail">
+        <div id="floor4_1" class="m2" style="display: none;">
+            <ul class="adItem">
+                <li>
+                    <a href="#"><img src="picture/a0e29d42-31e8-4eb3-b982-f47192a42952.jpg" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro1.png" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro2.jpg" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro3.jpg" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro4.jpg" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro5.jpg" alt=""></a>
+                </li>
+            </ul>
+            <div class="m3">
+                <a href="#"><img src="picture/71f14870-de37-4483-8343-0e0d2363ee97.jpg" alt=""></a>
+                <a href="#"><img src="picture/pro6.jpg" alt=""></a>
+            </div>
+        </div>
+
+        <div id="floor4_2" class="m2">
+            <ul class="productList">
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0080.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">青怡庄园-有机红小豆380g 东北五谷杂粮</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0081.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">良工坊巴马十宝米(1.5kg)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥45.0</span>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0082.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">△永福元银耳(90g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0083.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">简单爱 气血和健康汤料套装315g</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0084.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">DB甸禾有机杂粮礼盒-福贵年年(2.016kg(1*9包))</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0085.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元薏米(454g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0086.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元枸杞(甲级)(250g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0087.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">甸禾有机糙米(1000g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div id="floor4_3" class="m2" style="display: none;">
+            <ul class="productList">
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0040.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">青怡庄园-有机红小豆380g 东北五谷杂粮</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0041.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">良工坊巴马十宝米(1.5kg)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥45.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0042.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">△永福元银耳(90g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0043.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">简单爱 气血和健康汤料套装315g</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0044.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">DB甸禾有机杂粮礼盒-福贵年年(2.016kg(1*9包))</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0045.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元薏米(454g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0046.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元枸杞(甲级)(250g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0047.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">甸禾有机糙米(1000g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+            </ul>
+        </div>    
+        <div id="floor4_4" class="m2" style="display: none;">
+            <ul class="productList">
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0048.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">青怡庄园-有机红小豆380g 东北五谷杂粮</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0049.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">良工坊巴马十宝米(1.5kg)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥45.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0050.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">△永福元银耳(90g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0051.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">简单爱 气血和健康汤料套装315g</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0052.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">DB甸禾有机杂粮礼盒-福贵年年(2.016kg(1*9包))</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0053.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元薏米(454g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0054.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元枸杞(甲级)(250g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0055.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">甸禾有机糙米(1000g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div id="floor4_5" class="m2" style="display: none;">
+            <ul class="productList">
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0056.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">青怡庄园-有机红小豆380g 东北五谷杂粮</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0057.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">良工坊巴马十宝米(1.5kg)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥45.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0058.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">△永福元银耳(90g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0059.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">简单爱 气血和健康汤料套装315g</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0060.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">DB甸禾有机杂粮礼盒-福贵年年(2.016kg(1*9包))</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0061.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元薏米(454g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0062.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元枸杞(甲级)(250g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0063.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">甸禾有机糙米(1000g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        
+    </div>
+</div>
+<div id="floor5" class="floor">
+    <div class="floor-top">
+        <h2>妆品馆</h2>
+        <div class="tab">
+            <ul>
+                <li class="floor5-1"><a href="#">精选推荐</a></li>
+                <li class="floor5-2"><a href="#">美肤妆品</a></li>
+                <li class="floor5-3"><a href="#">洗发护发</a></li>
+                <li class="floor5-4"><a href="#">身体护理</a></li>
+                <li class="floor5-5"><a href="#">口腔&女性护理</a></li>
+            </ul>
+        </div>
+        
+    </div>
+    <div class="food-left">
+        <img src="picture/7388021a-85bc-45f9-9781-6eb2c703cd7c.jpg" alt="">
+        <div class="subSort">
+            <a href="#">花花公子男包</a>
+            <a href="#">丽天妮</a>
+            <a href="#">BananaBaby</a>
+            <a href="#">飞亚达 </a>
+            <a href="#">男士裤装</a>
+            <a href="#">安莉芳</a>
+            <a href="#">冲舒适家居服饮茶叶</a>
+            <a href="#">太阳镜</a>
+            <a href="#">潮流男鞋</a>
+            <a href="#">运动风</a>
+            <a href="#">男士T恤</a>
+        </div>
+    </div>
+    <div class="food-right proDetail">
+        <div id="floor5_1" class="m2" style="display: none;">
+            <ul class="adItem">
+                <li>
+                    <a href="#"><img src="picture/a0e29d42-31e8-4eb3-b982-f47192a42952.jpg" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro1.png" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro2.jpg" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro3.jpg" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro4.jpg" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro5.jpg" alt=""></a>
+                </li>
+            </ul>
+            <div class="m3">
+                <a href="#"><img src="picture/71f14870-de37-4483-8343-0e0d2363ee97.jpg" alt=""></a>
+                <a href="#"><img src="picture/pro6.jpg" alt=""></a>
+            </div>
+        </div>
+
+        <div id="floor5_2" class="m2">
+            <ul class="productList">
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0088.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">青怡庄园-有机红小豆380g 东北五谷杂粮</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0089.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">良工坊巴马十宝米(1.5kg)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥45.0</span>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0090.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">△永福元银耳(90g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0091.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">简单爱 气血和健康汤料套装315g</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0092.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">DB甸禾有机杂粮礼盒-福贵年年(2.016kg(1*9包))</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0093.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元薏米(454g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0094.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元枸杞(甲级)(250g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0095.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">甸禾有机糙米(1000g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div id="floor5_3" class="m2" style="display: none;">
+            <ul class="productList">
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0040.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">青怡庄园-有机红小豆380g 东北五谷杂粮</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0041.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">良工坊巴马十宝米(1.5kg)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥45.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0042.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">△永福元银耳(90g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0043.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">简单爱 气血和健康汤料套装315g</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0044.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">DB甸禾有机杂粮礼盒-福贵年年(2.016kg(1*9包))</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0045.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元薏米(454g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0046.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元枸杞(甲级)(250g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0047.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">甸禾有机糙米(1000g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+            </ul>
+        </div>    
+        <div id="floor5_4" class="m2" style="display: none;">
+            <ul class="productList">
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0048.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">青怡庄园-有机红小豆380g 东北五谷杂粮</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0049.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">良工坊巴马十宝米(1.5kg)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥45.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0050.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">△永福元银耳(90g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0051.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">简单爱 气血和健康汤料套装315g</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0052.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">DB甸禾有机杂粮礼盒-福贵年年(2.016kg(1*9包))</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0053.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元薏米(454g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0054.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元枸杞(甲级)(250g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0055.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">甸禾有机糙米(1000g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div id="floor5_5" class="m2" style="display: none;">
+            <ul class="productList">
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0056.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">青怡庄园-有机红小豆380g 东北五谷杂粮</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0057.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">良工坊巴马十宝米(1.5kg)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥45.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0058.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">△永福元银耳(90g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0059.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">简单爱 气血和健康汤料套装315g</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0060.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">DB甸禾有机杂粮礼盒-福贵年年(2.016kg(1*9包))</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0061.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元薏米(454g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0062.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元枸杞(甲级)(250g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0063.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">甸禾有机糙米(1000g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        
+    </div>
+</div>
+<div id="floor6" class="floor">
+    <div class="floor-top">
+        <h2>生活电器</h2>
+        <div class="tab">
+            <ul>
+                <li class="floor6-1"><a href="#">电器精选</a></li>
+                <li class="floor6-2"><a href="#">手机平板</a></li>
+                <li class="floor6-3"><a href="#">数码电脑</a></li>
+                <li class="floor6-4"><a href="#">生活家电</a></li>
+                <li class="floor6-5"><a href="#">厨卫电器</a></li>
+            </ul>
+        </div>
+        
+    </div>
+    <div class="food-left">
+        <img src="picture/d62a124b-9875-4973-8275-035c8a0c1014.jpg" alt="">
+        <div class="subSort">
+            <a href="#">花花公子男包</a>
+            <a href="#">丽天妮</a>
+            <a href="#">BananaBaby</a>
+            <a href="#">飞亚达 </a>
+            <a href="#">男士裤装</a>
+            <a href="#">安莉芳</a>
+            <a href="#">冲舒适家居服饮茶叶</a>
+            <a href="#">太阳镜</a>
+            <a href="#">潮流男鞋</a>
+            <a href="#">运动风</a>
+            <a href="#">男士T恤</a>
+        </div>
+    </div>
+    <div class="food-right proDetail">
+        <div id="floor6_1" class="m2" style="display: none;">
+            <ul class="adItem">
+                <li>
+                    <a href="#"><img src="picture/a0e29d42-31e8-4eb3-b982-f47192a42952.jpg" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro1.png" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro2.jpg" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro3.jpg" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro4.jpg" alt=""></a>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/pro5.jpg" alt=""></a>
+                </li>
+            </ul>
+            <div class="m3">
+                <a href="#"><img src="picture/71f14870-de37-4483-8343-0e0d2363ee97.jpg" alt=""></a>
+                <a href="#"><img src="picture/pro6.jpg" alt=""></a>
+            </div>
+        </div>
+
+        <div id="floor6_2" class="m2">
+            <ul class="productList">
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0096.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">青怡庄园-有机红小豆380g 东北五谷杂粮</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0097.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">良工坊巴马十宝米(1.5kg)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥45.0</span>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0098.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">△永福元银耳(90g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0099.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">简单爱 气血和健康汤料套装315g</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0100.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">DB甸禾有机杂粮礼盒-福贵年年(2.016kg(1*9包))</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0101.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元薏米(454g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0102.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元枸杞(甲级)(250g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0103.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">甸禾有机糙米(1000g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div id="floor6_3" class="m2" style="display: none;">
+            <ul class="productList">
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0040.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">青怡庄园-有机红小豆380g 东北五谷杂粮</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0041.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">良工坊巴马十宝米(1.5kg)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥45.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0042.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">△永福元银耳(90g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0043.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">简单爱 气血和健康汤料套装315g</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0044.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">DB甸禾有机杂粮礼盒-福贵年年(2.016kg(1*9包))</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0045.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元薏米(454g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0046.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元枸杞(甲级)(250g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0047.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">甸禾有机糙米(1000g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+            </ul>
+        </div>    
+        <div id="floor6_4" class="m2" style="display: none;">
+            <ul class="productList">
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0048.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">青怡庄园-有机红小豆380g 东北五谷杂粮</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0049.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">良工坊巴马十宝米(1.5kg)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥45.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0050.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">△永福元银耳(90g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0051.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">简单爱 气血和健康汤料套装315g</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0052.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">DB甸禾有机杂粮礼盒-福贵年年(2.016kg(1*9包))</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0053.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元薏米(454g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0054.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元枸杞(甲级)(250g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0055.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">甸禾有机糙米(1000g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div id="floor6_5" class="m2" style="display: none;">
+            <ul class="productList">
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0056.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">青怡庄园-有机红小豆380g 东北五谷杂粮</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0057.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">良工坊巴马十宝米(1.5kg)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥45.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0058.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">△永福元银耳(90g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0059.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">简单爱 气血和健康汤料套装315g</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0060.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">DB甸禾有机杂粮礼盒-福贵年年(2.016kg(1*9包))</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0061.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元薏米(454g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0062.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">永福元枸杞(甲级)(250g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+                <li>
+                    <div class="pic">
+                        <a href="#"><img src="proImg/proImg0063.jpg" alt=""></a>
+                    </div>
+                    <div class="p-t">
+                        <a href="#">甸禾有机糙米(1000g)</a>
+                    </div>
+                    <div class="price">
+                        <span>￥17.0</span>
+                        <del>￥27.0</del>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        
+    </div>
+</div>

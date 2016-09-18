@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>productList</title>
+    <link rel="stylesheet" href="css/public.css">
+    <link rel="stylesheet" href="css/public-site.css">
+    <link rel="stylesheet" href="css/productList.css">
+    <script src="js/jquery-1.8.2.min.js"></script>
+</head>
+<body>
+<!--------------------headTop-------------------------------->
+<div id="site-nav">
+    <div class="container-index">
+        <div class="l-link">
+            <a class="sc icon" href="#"></a>
+            <a class="wx icon" href="#"></a>
+            <a class="wb icon" href="#"></a>
+        </div>
+        <div class="r-link">
+            <ul class="loginBar">
+                <li id="welcome_user">您好，欢迎来到虹领巾!</li>
+                <li id="loginTH" class="head-linkBar"><a href="logout.html">[登录]</a></li>
+                <li id="registerTH" class="head-linkBar"><a href="register.html">[注册]</a></li>
+                <li id="logoutTH" class="head-linkBar"><a href="#">[退出]</a></li>
+                <li class="head-linkBar"><span class="l-border"></span><a href="#">我的虹领巾</a></li>
+                <li class="head-linkBar"><span class="l-border"></span><a href="#">我的订单</a></li>
+                <li class="custom-service"><span class="l-border"></span><a href="#">客服服务</a><i class="icon ci-right"></i>
+                    <ul id="hide_service">
+                        <li class="linkBar-noUnderline"><a href="#">大客户服务</a></li>
+                        <li class="linkBar-noUnderline"><a href="#">线上客服</a></li>
+                        <li class="linkBar-noUnderline"><a href="#">服务热线</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!--------------------advertisement-------------------------------->
+<div id="ad">
+    <a href="#"><img src="picture/7a720304-3287-4a84-82da-88f6f7704f06.jpg" alt=""></a>
+    <span id="close_ad" class="minorIcon"></span>
+</div>
+
+<!---------------------------------header-------------------------------->
+<div class="header clear">
+    <div class="logo-index">
+        <a href="index.html">
+            <img src="picture/logo_hlj.png" alt="虹领巾" />
+        </a>
+    </div>
+    <div class="head-search">
+        <form action="">
+            <input id="search" class="txt-btn" type="text">
+            <input class="search-btn" type="button" value="搜索">
+        </form>
+        <div class="hot-search">
+            <span>热门搜索：</span>
+            <a href="#">自营海外好货</a>
+            <a href="#">美赞臣满500减100</a>
+            <a href="#">键鼠</a>
+            <a href="#">恩师有礼天王表</a>
+            <a href="#">大闸蟹4折起</a>
+        </div>
+    </div>
+
+    <div class="minicart">
+        <s class="icon"></s>
+        <a href="">去购物车结算</a>
+        <em class="icon"></em>
+    </div>
+</div>
+<!---------------------------------head-nav-------------------------------->
+<div class="headNav clear">
+    <div class="headNav-top-wrap">
+        <div class="headNav-top">
+            <div class="all-product">
+                <a class="all" href="#">全部商品分类</a>
+            </div>
+            <ul class="menu">
+                <li><a href="#">首页</a></li>
+                <li><a href="#">天虹官方APP</a><span class="new"></span></li>
+                <li><a href="#">品牌</a></li>
+                <li><a href="#">海外购</a><span class="new"></span></li>
+                <li><a href="#">专柜新款</a><span class="new"></span></li>
+                <li><a href="#">天虹团</a></li>
+                <li><a href="#">积分商城</a><span class="new"></span></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="product-content">
+    <div id="sort_list">
+        <h2 class="f1">母婴用品 儿童玩具</h2>
+        <span class="big">></span>
+        <div class="subSort">
+            <a href="#">辅食</a>
+            <!--<i class="arrow"></i>-->
+        </div>
+        <!--<span class="big">></span>-->
+        <!--<div class="subSort">-->
+            <!--<a href="#">辅食</a>-->
+            <!--<i class="arrow"></i>-->
+        <!--</div>-->
+        <!--<span class="big">></span>-->
+    </div>
+    <div id="filterBox">
+        <div class="item">
+            <div class="key">品牌</div>
+            <div class="values">
+                <a class="curr" href="#">全部</a>
+                <a href="#">费雪</a>
+                <a href="#">好孩子</a>
+                <a href="#">纽奇</a>
+            </div>
+        </div>
+        <div class="item">
+            <div class="key">品牌</div>
+            <div class="values">
+                <a  class="curr"href="#">价格</a>
+                <a href="#">0-100</a>
+                <a href="#">100-500</a>
+                <a href="#">500-1000</a>
+            </div>
+        </div>
+        <div class="item">
+            <div class="key">类别</div>
+            <div class="values">
+                <a class="curr" href="#">全部</a>
+                <a href="#">卫衣</a>
+                <a href="#">西服</a>
+                <a href="#">外套</a>
+                <a href="#">T恤</a>
+                <a href="#">夹克</a>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+<div class="proInfo-all">
+    <div class="slide-nav">
+        <div id="showcaseRecommend">
+            <h4>推广商品</h4>
+            <ul>
+                <li>
+                    <a href="#"><img src="picture/8590a201389a44f69fe5b6bc7ed4795e_80x80.jpg" alt=""></a>
+                    <div class="thisPro-info">
+                        <a href="#">亨氏鳕鱼苹果营养米粉(225g)</a><br>
+                        <span>￥28.50</span>
+                    </div>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/8590a201389a44f69fe5b6bc7ed4795e_80x80.jpg" alt=""></a>
+                    <div class="thisPro-info">
+                        <a href="#">亨氏鳕鱼苹果营养米粉(225g)</a><br>
+                        <span>￥28.50</span>
+                    </div>
+                </li>
+                <li class="pro-none">
+                    <a href="#"><img src="picture/8590a201389a44f69fe5b6bc7ed4795e_80x80.jpg" alt=""></a>
+                    <div class="thisPro-info">
+                        <a href="#">亨氏鳕鱼苹果营养米粉(225g)</a><br>
+                        <span>￥28.50</span>
+                    </div>
+                </li>
+            </ul>
+
+        </div>
+        <div class="recent">
+            <h4>最近浏览</h4>
+            <ul>
+                <li>
+                    <a href="#"><img src="picture/8590a201389a44f69fe5b6bc7ed4795e_80x80.jpg" alt=""></a>
+                    <div class="thisPro-info">
+                        <a href="#">亨氏鳕鱼苹果营养米粉(225g)</a><br>
+                        <span>￥28.50</span>
+                    </div>
+                </li>
+                <li>
+                    <a href="#"><img src="picture/8590a201389a44f69fe5b6bc7ed4795e_80x80.jpg" alt=""></a>
+                    <div class="thisPro-info">
+                        <a href="#">亨氏鳕鱼苹果营养米粉(225g)</a><br>
+                        <span>￥28.50</span>
+                    </div>
+                </li>
+                <li class="pro-none">
+                    <a href="#"><img src="picture/8590a201389a44f69fe5b6bc7ed4795e_80x80.jpg" alt=""></a>
+                    <div class="thisPro-info">
+                        <a href="#">亨氏鳕鱼苹果营养米粉(225g)</a><br>
+                        <span>￥28.50</span>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div id="pro_main">
+        <div class="filter">
+            <div class="fore1">
+                <a class="curA" href="#">最畅销</a>
+                <a href="#">价格</a>
+                <a href="#">最新上架</a>
+                <a href="#">最热评</a>
+            </div>
+            <div class="fore2">
+                <label>
+                    <span class="price-span">价格</span>
+                    <div class="price-input">
+                        <span class="icon icon-money"></span><input id="low_price" type="text">
+                    </div>
+                    <span class="span-heng">-</span>
+                    <div class="price-input">
+                        <span class="icon icon-money"></span><input id="high_price" type="text">
+                    </div>
+                </label>
+                <div id="confirm_btn" >
+                    <input id="getpro_price" class="icon icon-confirm-btn" type="button" value="确认">
+                </div>
+            </div>
+        </div>
+
+        <div id="pro_list">
+            <ul class="sp-list">
+            </ul>
+        </div>
+    </div>
+    
+</div>
+
+<script src="js/proList.js"></script>
+</body>
+</html>

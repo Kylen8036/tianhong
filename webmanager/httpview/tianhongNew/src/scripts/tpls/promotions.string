@@ -1,0 +1,198 @@
+<div class="promotions">
+    <div class="l-promotions">
+        <ul class="promotions-title">
+            <li class="pro1"><a href="#">海外购</a><span class=""></span></li>
+            <li class="pro2"><a href="#">全球生鲜</a><span class=""></li>
+            <li class="pro3"><a href="#">专柜新款</a><span class=""></li>
+        </ul>
+
+        <ul id="promotions-content1" class="promotions-content proDetail">
+            <li><a href="#"><img src="picture/0feba686-6058-4ff3-b55d-43c8cbf5a49a.jpg" alt=""></a></li>
+            <li>
+                <a href="#"><img src="picture/dbdfe638-6154-4120-8b52-9c81fa23d23e.jpg" alt=""></a>
+                <a href="#"><img src="picture/dbdfe638-6154-4120-8b52-9c81fa23d23e.jpg" alt=""></a>
+            </li>
+            <li>
+                <a href="#"><img src="picture/1f40be40-9c21-4a58-aa6c-31ad7ebee384.jpg" alt=""></a>
+                <a href="#"><img src="picture/1f40be40-9c21-4a58-aa6c-31ad7ebee384.jpg" alt=""></a>
+            </li>
+        </ul>
+
+    <ul id="promotions-content2" class="promotions-content proDetail" style="display: none;">
+        <li>
+            <div class="pic">
+                <a href="#"><img src="proImg/proImg0021.jpg" alt=""></a>
+            </div>
+            <div class="title">
+                <a href="#">福建平和红肉蜜柚礼盒2个装  2.5kg/箱（每周一、三、五福建产地直发）</a>
+            </div>
+            <div class="price">
+                <span>￥49.0</span>
+                <del>￥69</del>
+            </div>
+        </li>
+        <li>
+            <div class="pic">
+                <a href="#"><img src="proImg/proImg0022.jpg" alt=""></a>
+            </div>
+            <div class="title">
+                <a href="#">福建平和红肉蜜柚礼盒2个装  2.5kg/箱（每周一、三、五福建产地直发）</a>
+            </div>
+            <div class="price">
+                <span>￥49.0</span>
+                <del>￥69</del>
+            </div>
+        </li>
+        <li class="lastLi">
+            <div class="pic">
+                <a href="#"><img src="proImg/proImg0023.jpg" alt=""></a>
+            </div>
+            <div class="title">
+                <a href="#">福建平和红肉蜜柚礼盒2个装  2.5kg/箱（每周一、三、五福建产地直发）</a>
+            </div>
+            <div class="price">
+                <span>￥49.0</span>
+                <del>￥69</del>
+            </div>
+        </li>
+        <li class="mt8">
+            <div class="pic">
+                <a href="#"><img src="proImg/proImg0024.jpg" alt=""></a>
+            </div>
+            <div class="title">
+                <a href="#">福建平和红肉蜜柚礼盒2个装  2.5kg/箱（每周一、三、五福建产地直发）</a>
+            </div>
+            <div class="price">
+                <span>￥39.0</span>
+                <del>￥58</del>
+            </div>
+        </li>
+        <li class="mt8">
+            <div class="pic">
+                <a href="#"><img src="proImg/proImg0025.jpg" alt=""></a>
+            </div>
+            <div class="title">
+                <a href="#">福建平和红肉蜜柚礼盒2个装  2.5kg/箱（每周一、三、五福建产地直发）</a>
+            </div>
+            <div class="price">
+                <span>￥49.0</span>
+                <del>￥69</del>
+            </div>
+        </li>
+        <li class="mt8 lastLi">
+            <div class="pic">
+                <a href="#"><img src="proImg/proImg0026.jpg" alt=""></a>
+            </div>
+            <div class="title">
+                <a href="#">福建平和红肉蜜柚礼盒2个装  2.5kg/箱（每周一、三、五福建产地直发）</a>
+            </div>
+            <div class="price">
+                <span>￥49.0</span>
+                <del>￥69</del>
+            </div>
+        </li>
+    </ul>
+    <ul id="promotions-content3" class="promotions-content proDetail" style="display: none;">
+        <li class="for1">
+            <div class="title">
+                <a href="#">New Balance/新百伦 VAZEE COAST系列男跑步运动休闲鞋 MCOASBR</a>
+            </div>
+            <div class="pic">
+                <a href="#"><img src="proImg/proImg0027.jpg" alt=""></a>
+            </div>
+            <div class="price">
+                <span>￥49.0</span>
+                <del>￥69</del>
+            </div>
+        </li>
+        <li class="for2">
+            <a href="#"><img src="picture/d556a206-ae3b-446c-9021-f06ae483d01f.jpg" alt=""></a>
+        </li>
+        <li class="for1">
+            <div class="title">
+                <a href="#">皮尔卡丹 男士针扣二层牛皮皮带男P5D818203-CYA</a>
+            </div>
+            <div class="pic">
+                <a href="#"><img src="proImg/proImg0028.jpg" alt=""></a>
+            </div>
+            <div class="price">
+                <span>￥268.0</span>
+                <del>￥268</del>
+            </div>
+        </li>
+        <li class="for3">
+            <div class="pic">
+                <a href="#"><img src="proImg/proImg0029.jpg" alt=""></a>
+            </div>
+            <div class="title">
+                <a href="#">图途 阿珂姆Acome新款户外三季双人双层登山露营野营防雨超轻铝杆帐篷 AA141T0014(145*210*105CM)</a>
+            </div>
+            <div class="price">
+                <span>￥350.0</span>
+                <del>￥699</del>
+            </div>
+        </li>
+        <li class="for3">
+            <div class="pic">
+                <a href="#"><img src="proImg/proImg0030.jpg" alt=""></a>
+            </div>
+            <div class="title">
+                <a href="#">小安踏  圆领速干短袖女T恤 36622140</a>
+            </div>
+            <div class="price">
+                <span>￥59.0</span>
+                <del>￥79</del>
+            </div>
+        </li>
+        <li class="for3 lastLi">
+            <div class="pic">
+                <a href="#"><img src="proImg/proImg0031.jpg" alt=""></a>
+            </div>
+            <div class="title">
+                <a href="#">小安踏  纯棉男童短袖针织衫T恤 35628147</a>
+            </div>
+            <div class="price">
+                <span>￥69.0</span>
+                <del>￥99</del>
+            </div>
+        </li>
+    </ul>
+    </div>
+
+<div class="r-promotions">
+    <div class="r-title">
+        <span class="icon"></span>
+        <h3><strong>限时抢购</strong></h3>
+        <a href="#">更多>></a>
+    </div>
+    <div class="spbox">
+        <a href="#"><img src="picture/be88bb8be9aa4fec9d4808ec9ef27ab2_145x145.jpg" alt=""></a>
+        <div class="b0"></div>
+        <p>天天低价 限时疯抢</p>
+        <div class="price">
+            <span class="fr">
+                抢购价<br>
+                <em>￥178.00</em>
+            </span>
+            <span class="ar minorIcon"></span>
+        </div>
+    </div>
+    <div class="r-title">
+        <span class="icon"></span>
+        <h3><strong>限时抢购</strong></h3>
+        <a href="#">更多>></a>
+    </div>
+    <div class="spbox">
+        <a href="#"><img src="picture/be88bb8be9aa4fec9d4808ec9ef27ab2_145x145.jpg" alt=""></a>
+        <div class="b0"></div>
+        <p>天天低价 限时疯抢</p>
+        <div class="price">
+            <span class="fr">
+                抢购价<br>
+                <em>￥178.00</em>
+            </span>
+            <span class="ar minorIcon"></span>
+        </div>
+    </div>
+</div>
+</div>

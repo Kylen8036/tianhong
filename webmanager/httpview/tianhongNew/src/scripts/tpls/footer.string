@@ -1,0 +1,24 @@
+<div class="footer">
+    <div class="link">
+        <a href="#">大客户服务</a>|
+        <a href="#">天虹门户</a>|
+        <a href="#">关于我们</a>|
+        <a href="#">质量价格保障</a>|
+        <a href="#">开放平台规则</a>|
+        <a href="#">友情链接</a>|
+        <a href="#">品牌招商</a>
+    </div>
+    <p>
+        <a href="#">粤ICP备11065574号-7</a>
+        <span> 营业执照</span>
+        <span>Copyright© 虹领巾 2009-2016, All RightsReserved</span>
+        <span>天虹商场股份有限公司 版权所有</span>
+    </p>
+    <div>
+        <a href="#"><img src="picture/wangan2.gif" alt=""></a>
+        <a href="#"><img src="picture/kexin.gif" alt=""></a>
+        <a href="#"><img src="picture/ylimg.gif" alt=""></a>
+        <a href="#"><img src="picture/zhongxin.gif" alt=""></a>
+        <a href="#"><img src="picture/govicon.gif" alt=""></a>
+    </div>
+</div>

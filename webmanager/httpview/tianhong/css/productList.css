@@ -1,0 +1,299 @@
+@charset "UTF-8";
+.product-content {
+  width: 1190px;
+  margin: 0 auto;
+  background-color: #ffffff;
+}
+
+#sort_list {
+  height: 22px;
+  line-height: 20px;
+  margin: 10px 0 15px 0;
+}
+#sort_list h2 {
+  display: inline-block;
+  float: left;
+  font: 700 18px/20px "microsoft yahei";
+}
+#sort_list .big {
+  float: left;
+  font-size: 20px;
+  padding: 0 6px;
+}
+#sort_list .subSort {
+  float: left;
+  display: inline-block;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  height: 22px;
+  line-height: 22px;
+  padding: 0 6px 0 8px;
+  vertical-align: top;
+}
+
+#filterBox {
+  border-bottom: 1px #ddd solid;
+  margin-bottom: 10px;
+}
+#filterBox .item {
+  clear: both;
+  border: 1px #ddd solid;
+  border-bottom: none;
+  padding: 0;
+  background: #F7F7F7;
+  line-height: 18px;
+  overflow: hidden;
+}
+#filterBox .key {
+  float: left;
+  width: 100px;
+  text-align: center;
+  padding: 6px 0;
+}
+#filterBox .values {
+  float: left;
+  text-align: center;
+  padding: 6px 0 0;
+  background: #fff;
+  border-left: 1px #ddd solid;
+  width: 1087px;
+  height: 24px;
+  overflow: hidden;
+}
+#filterBox .values a {
+  float: left;
+  width: 89px;
+  height: 18px;
+  line-height: 18px;
+  margin-bottom: 6px;
+  margin-right: 22px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+#filterBox .values .curr {
+  display: inline-block;
+  width: 30px;
+  margin: 0 40px 0 10px;
+  background: #EE9747;
+  color: #fff;
+  text-decoration: none;
+}
+
+.proInfo-all {
+  width: 1190px;
+  margin: 30px auto 0;
+}
+.proInfo-all a:hover {
+  color: #da2b28;
+}
+.proInfo-all .pro-none {
+  border-bottom: 0;
+}
+
+.slide-nav {
+  float: left;
+  width: 192px;
+  height: auto;
+  background-color: #FFFFFF;
+}
+.slide-nav h4 {
+  height: 28px;
+  padding: 0 0 0 14px;
+  border-top: 1px #ddd solid;
+  background: #f7f7f7;
+  color: #666;
+  font: 700 14px/28px "microsoft yahei";
+}
+.slide-nav ul {
+  clear: both;
+  width: 170px;
+  padding: 10px 10px 0;
+}
+.slide-nav ul li {
+  height: 56px;
+  border-bottom: 1px solid #EFEFEF;
+  margin-bottom: 5px;
+}
+.slide-nav ul li img {
+  float: left;
+  width: 50px;
+  height: 50px;
+  margin: 0 12px 0 0;
+}
+.slide-nav ul li .thisPro-info {
+  float: left;
+  height: 50px;
+  line-height: 16px;
+  overflow: hidden;
+  padding: 2px 0 0;
+  width: 108px;
+}
+.slide-nav ul li .thisPro-info span {
+  color: #F60200;
+}
+.slide-nav #showcaseRecommend,
+.slide-nav .recent {
+  width: 190px;
+  border: 1px #ddd solid;
+  border-top: 0;
+  margin-bottom: 20px;
+}
+
+#pro_main {
+  float: right;
+  width: 990px;
+}
+#pro_main .filter {
+  border: 1px #ddd solid;
+  overflow: hidden;
+}
+#pro_main .fore1 {
+  height: 30px;
+  border-bottom: 1px #ee9747 solid;
+  background: #f7f7f7;
+  overflow: hidden;
+}
+#pro_main .fore1 .curA {
+  background: #ee9747;
+  border: 0;
+  line-height: 26px;
+  color: #fff;
+}
+#pro_main .fore1 a {
+  float: left;
+  padding: 0 15px;
+  font: 14px/24px "microsoft yahei";
+}
+#pro_main .fore2 {
+  height: 34px;
+  line-height: 34px;
+  margin-left: 15px;
+}
+#pro_main .fore2 .price-span,
+#pro_main .fore2 .span-heng {
+  float: left;
+}
+#pro_main .fore2 .price-input {
+  float: left;
+  width: 45px;
+  height: 22px;
+  border: 1px #ddd solid;
+  background: #fff;
+  margin: 5px 3px 0 5px;
+}
+#pro_main .fore2 .price-input span {
+  float: left;
+  height: 22px;
+  width: 9px;
+  font-size: 0;
+  line-height: 0;
+  background-position: -140px 5px;
+}
+#pro_main .fore2 .price-input input {
+  outline: none;
+  float: left;
+  width: 30px;
+  padding-left: 3px;
+  border: 0;
+  font: 12px/22px arial, "宋体";
+}
+#pro_main .fore2 #confirm_btn {
+  float: left;
+  line-height: 34px;
+  margin-left: 15px;
+}
+#pro_main .fore2 #confirm_btn .icon-confirm-btn {
+  display: inline-block;
+  margin-top: 5px;
+  width: 40px;
+  height: 24px;
+  border: none;
+  background-position: -19px -30px;
+  text-align: center;
+  line-height: 24px;
+}
+#pro_main .fore2 #confirm_btn .icon-confirm-btn:hover {
+  color: #da2b28;
+}
+
+#pro_list {
+  clear: both;
+  margin: 10px 0 20px;
+  overflow: hidden;
+  width: 990px;
+}
+
+.sp-list li {
+  float: left;
+  border: 5px solid #fff;
+  height: 348px;
+  padding: 10px 8px 0;
+  position: relative;
+  width: 221px;
+  margin-bottom: 5px;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+.sp-list li .pic {
+  width: 220px;
+  height: 220px;
+  margin: 0 auto 5px;
+}
+.sp-list li .pic img {
+  border: 0;
+}
+.sp-list li .title {
+  clear: both;
+  height: 36px;
+  line-height: 18px;
+  overflow: hidden;
+  margin-bottom: 5px;
+  word-break: break-all;
+  word-wrap: break-word;
+}
+.sp-list li .price {
+  margin-bottom: 5px;
+  line-height: 18px;
+  overflow: hidden;
+}
+.sp-list li .price span {
+  float: left;
+  color: #F60200;
+  font-size: 14px;
+  margin-right: 10px;
+}
+.sp-list li .price del {
+  float: left;
+}
+.sp-list li .btn {
+  height: 22px;
+  clear: both;
+}
+.sp-list li .btn a {
+  float: left;
+  padding: 0 14px;
+  border-radius: 2px 2px 2px 2px;
+  margin-right: 4px;
+}
+.sp-list li .btn .add {
+  border: 0 none;
+  background: #EE9747;
+  color: #fff;
+  height: 22px;
+  line-height: 22px;
+}
+.sp-list li .btn .btn-store {
+  height: 22px;
+  border: 1px #ddd solid;
+  background: #F7F7F7;
+  line-height: 20px;
+  padding: 0 14px;
+  color: #000;
+  margin-right: 4px;
+  float: left;
+  border-radius: 2px 2px 2px 2px;
+}
+
+/*# sourceMappingURL=productList.css.map */
